@@ -1,5 +1,3 @@
-import React from 'react'
-
 export default function NotFound () {
   return (
     <div className='flex items-center justify-center h-svh bg-red-100 text-red-800 dark:text-red-300 dark:bg-red-950'>

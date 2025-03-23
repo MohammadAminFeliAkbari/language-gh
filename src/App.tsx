@@ -1,4 +1,3 @@
-import React from "react";
 import Page from "./app/page"; // Make sure this path is correct
 
 function App() {

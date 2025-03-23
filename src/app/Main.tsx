@@ -1,5 +1,4 @@
-'use client'
-import React, { useState } from "react";  
+import { useState } from "react";  
 import ComTranslate from "./ComTranslate";  
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";  
 import { faArrowDown, faArrowUp } from "@fortawesome/free-solid-svg-icons";  

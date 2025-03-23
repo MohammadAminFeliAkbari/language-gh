@@ -1,5 +1,4 @@
-import React from "react";
-import Main, { Lesson } from "./Main";
+import Main from "./Main";
 import { data } from "./data";
 
 function Page() {

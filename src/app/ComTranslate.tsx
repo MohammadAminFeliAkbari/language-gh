@@ -1,5 +1,4 @@
-"use client";
-import React, { useState } from "react";
+import{ useState } from "react";
 import { detail } from "./Main";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faGlobe, faVolumeUp } from "@fortawesome/free-solid-svg-icons";
