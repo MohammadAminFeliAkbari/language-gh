@@ -1084,4 +1084,548 @@ export const data = [
       },
     ],
   },
+
+  {
+    lessonNumber: 11,
+    lessonTitleEnglish: " Optical discs and drives",
+    lessonTitlePersion: "دیسک ها و درایوهای نوری",
+    detail: [
+      {
+        englishContent:
+          "Optical discs can store data at much higher densities than magnetic disks.",
+        persionContent:
+          "داده توانند یم ینور های یسکد ها یسیمغناط های یسکدباالتر از اریبس یچگالرا با ذخیره کنند.",
+      },
+      {
+        englishContent:
+          "They are therefore ideal for multimedia applications where images, animation and sound occupy a lot of disc space.",
+        persionContent:
+          "برنامه یآنها برا نیبنابرا ها ر،یکه در آن تصاو یا چندرسانه ی کارتون )نقاشی متحرک( و صدا، فضای زیادی از دیسک را اشغال میکنند ایدهآل هستند.",
+      },
+      {
+        englishContent:
+          "Furthermore, optical discs are not affected by magnetic fields, meaning that they are secure and stable, and can be transported through airport metal detectors without damaging the data.",
+        persionContent:
+          "یعالوه بر ا ن، قرار یسیمغناط های یدانم ریتحت تأث ینور های یسکد نم گیر یند یاکه یمعن نیبه ا ، من و پایدار هستند و میتوانند از طریق فلزیابهای فرودگاه بدون آسیب رساندن به دادهها حمل شوند.",
+      },
+      {
+        englishContent: "However, optical drives are slower than hard drives.",
+        persionContent: "بااینحال یسکهارددکندتر از ینور یوهای، درا ها هستند.",
+      },
+      {
+        englishContent: "At first sight, a DVD is similar to a CD.",
+        persionContent: "ید یو ید ،در نگاه اول شب است.",
+      },
+      {
+        englishContent: "Both discs are 120 mm in diameter and 1.2 mm thick.",
+        persionContent:
+          "یهر دو د سک 120 میلیمتر قطر و 1.2 میلیمتر ضخامت دارند.",
+      },
+      {
+        englishContent: "They also both use a laser beam to read data.",
+        persionContent:
+          "دادهخواندن یبرا یزریهر دو از پرتو ل نیهمچن ها .کنند یماستفاده",
+      },
+      {
+        englishContent:
+          "However, they are very different in internal structure and data capacity.",
+        persionContent:
+          "بااینحال، آنها از نظر ساختار داخل متفاوت هستند. اریداده بس تیظرفو ی",
+      },
+      {
+        englishContent:
+          "In a DVD, the tracks are very close together, thus allowing more tracks.",
+        persionContent:
+          "ید کیدر ویدی کینزد اریها بسشیار ، به هم هستند، بنابرا شیار نی ها وجود دارد. یشتریب ی",
+      },
+      {
+        englishContent:
+          "The pits in which data is stored are also smaller, so there are more pits per track.",
+        persionContent:
+          "حفرهها یها در آنها ذخ که داده یی ره کوچک زین شود یم تر هستند، بنابرا حفره نی ها شیاردر هر یشتریب ی وجود دارد.",
+      },
+      {
+        englishContent:
+          "As a result, a CD can hold 650-700MB, whereas a basic DVD can hold 4.7GB.",
+        persionContent:
+          "تواند یم ید یس کی ،یجهدرنت 700-650 مگابایت را در خود جای دهد، درحالیکه یک دیویدی معمولی میتواند 4.7 گیگابایت را در خود جای دهد.",
+      },
+      {
+        englishContent:
+          "In addition, a DVD can be double-sided and dual layer, with a capacity of 17GB.",
+        persionContent:
+          "کی ن،یعالوه بر ا دیویدی میتواند دوطرفه و دوالیه با ظرفیت 17 گیگابایت باشد.",
+      },
+      {
+        englishContent: "CDs come in three different formats:",
+        persionContent: "یس دیها در سه فرمت مختلف عرضه :شوند یم",
+      },
+      {
+        englishContent:
+          "CD-ROMs (read-only memory) are read-only units, meaning you cannot change the data stored on them (for example, a dictionary or a game).",
+        persionContent:
+          "ROM-CD هاحافظه فقط خواندنی واحدهای فقط خواندنی هستند، به این معنی که نمیتوانید دادههای ذخیره شده روی آنها را تغییر دهید مثالً یک فرهنگ لغت یا یک بازی.",
+      },
+      {
+        englishContent:
+          "CD-R (recordable) discs are write-once devices which let you duplicate music CDs and other data CDs.",
+        persionContent:
+          "■ R-CD( قابل ضبط( این دیسکها وسایل با قابلیت یک بار نوشتن هستند و به شما امکان میدهند سیدیهای موسیقی و سایر سیدیهای داده را تکثیر کنید.",
+      },
+      {
+        englishContent:
+          "CD-RW (rewritable) discs enable you to write onto them many times, just like a hard disk.",
+        persionContent:
+          "■ RW-CD( قابل بازنویسی( این دیسک شما را قادر میسازند تا چندین بار روی آنها بنویسید، درست مانند دیسک سخت.",
+      },
+      {
+        englishContent: "DVDs also come in several formats:",
+        persionContent: "‌زین‌ها‌ید‌یو‌ید در‌ ‌یمعرضه‌‌یمختلف‌یها‌فرمت شوند:",
+      },
+      {
+        englishContent: "DVD-ROMs are used in DVD computer drives.",
+        persionContent:
+          "■ ROM-DVD ها در درایوهای دیویدی کامپیوتر استفاده میشوند.",
+      },
+      {
+        englishContent:
+          "They allow for data archiving as well as interactive content (for example, an encyclopedia or a movie).",
+        persionContent:
+          "آنها امکان داده بایگانی ها و یف کی ای المعارف دائره کی)مثالً یتعامل یمحتوا نیهمچن لم( را فراهم میکنند.",
+      },
+      {
+        englishContent: "DVD-R or DVD+R can only be recorded on once.",
+        persionContent: "■ R-DVD یا R+DVD فقط یک بار قابل ضبط است.",
+      },
+      {
+        englishContent:
+          "DVD-RW or DVD+RW discs can be erased and reused many times.",
+        persionContent:
+          "■ های یسکد RW-DVD یا RW+DVD را میتوان چندین بار پاک کرد و استفاده کرد.",
+      },
+      {
+        englishContent:
+          "They are used to back up data files and to record audio and video.",
+        persionContent:
+          "از یریگ بانیپشت یآنها برا فا های یل داده و ضبط صدا و .شوند یماستفاده ویدیو",
+      },
+      {
+        englishContent:
+          "The DVD drive used in computers is also called a DVD burner because it records information by burning via a laser to a blank DVD disc.",
+        persionContent:
+          "ید ویدرا ویدی مورد استفاده در کامپ ید وترهای ویدی را ینام زین /سوزانتری ده یز شود یم را اطالعات را با رایت/سوزاندن از طریق لیزر بر روی یک دیسک دیویدی خالی ضبط میکند.",
+      },
+      {
+        englishContent:
+          "However, a DVD recorder typically refers to a standalone unit which resembles a video cassette recorder.",
+        persionContent:
+          "یدضبط کننده کیحال، نیبا ا وی ضبط کی هیشبکه شود یماطالق مستقلواحد کیمعموالً به دی کننده کاست ویدیویی است.",
+      },
+      {
+        englishContent: "New DVD recorders can play all CD and DVD formats.",
+        persionContent:
+          "دستگاهها یدضبط ی وی دی جد فرمتتمام میتوانند یم دی ها سی ی دی یدو ویدیها را پخش کنند.",
+      },
+      {
+        englishContent:
+          "There are also portable DVD players - handheld devices which let you watch movies or TV, play games and listen to music, wherever you are.",
+        persionContent:
+          "هدستگا ها یدکننده پخش ی وی نوجود دار زین حمل قابل دی د - دستگاه ها یدست ی که به شما امکان میدهند فیلم یا تلویزیون تماشا کنید، بازی کنید و به موسیقی گوش دهید، در هر کجا که باشید.",
+      },
+      {
+        englishContent:
+          "They come with a built-in DVD drive and widescreen (rectangular 16:9 format) LCD display.",
+        persionContent:
+          "ید ویدرا کی یآنها دارا ویدی تعب شده یه و نما صفحه یش LCD عریض )قالب مستطیلی شکل 16:9( هستند.",
+      },
+      {
+        englishContent:
+          "They usually support multi-format playback - that is, they can play many file formats, including DVD-video, DivX, CD audio discs, MP3 music and JPEG images.",
+        persionContent:
+          "آنها معموالً کنند یم یبانیپشترا یچند فرمت بازنواخت پخش - فرمتاز یاریبس توانند یم یعنی ها ی فایل از جمله video-DVD ، DivX، دیسکهای CD صوتی ، موسیقی 3MP و تصاویر JPEG را پخش کنند.",
+      },
+      {
+        englishContent:
+          "These two competing formats are expected to replace current DVD as the standard for watching movies at home.",
+        persionContent:
+          "دو فرمت نیا رود یمانتظار رق بی ، جا ید نیگزی وی جاری )معاصر( دی استاندارد تماشا عنوان به یف ی لم در خانه شوند.",
+      },
+      {
+        englishContent:
+          "On one side are Toshiba, Microsoft and the DVD Forum, who support the High Definition-DVD (HDDVD).",
+        persionContent:
+          "با،یطرف توش کیدر ما کروسافتی و ید انجمن وی دی قرار دارند که از ید وی باال یفیتباک دی )HDDVD )پشتیبانی میکنند.",
+      },
+      {
+        englishContent:
+          "Sony, Panasonic, Samsung, JVC and many movie studios are behind the Blu-ray format.",
+        persionContent:
+          ")در طرف دیگر( سون سامسونگ، ک،یپاناسون ،ی JVC و بسیاری از استودیوهای فیلم، پشتیبانِ فرمت ray-Blu( اشعه آبی، بنفش لیزری( هستند.",
+      },
+      {
+        englishContent:
+          "Blu-ray disc has a capacity of 25GB (single layer), 50GB (dual layer) and 100GB (four layer).",
+        persionContent:
+          "ید سک تیظرف یدارا یبلور 25 گیگابایت )تک الیه(، 50 گیگابایت )دو الیه( و 100 گیگابایت )چهار الیه( است.",
+      },
+      {
+        englishContent:
+          "Unlike DVDs, which use a red laser to read and write data, Blu-ray uses a blue-violet laser, hence its name.",
+        persionContent:
+          "ید برخلاف ویدیها یقرمز برا زریکه از ل خواندن و نوشتن دادهها کنند یماستفاده ، ray-Blu از لیزر آبی بنفش استفاده میکند، به همین دلیل نام آن ray-Blu است.",
+      },
+      {
+        englishContent:
+          "Blu-ray discs can record and play back high-definition television and digital audio, as well as computer data.",
+        persionContent:
+          "های یسکد ray-Blu میتوانند تلویزیون باکیفیت باال و صدای دیجیتال و همچنین دادههای رایانه را ضبط و پخش کنند.",
+      },
+    ],
+  },
+  {
+    lessonNumber: 12,
+    lessonTitleEnglish: "memory in a flash!",
+    lessonTitlePersion: "حافظه در یک فلش",
+    detail: [
+      {
+        englishContent:
+          "Flash memory is a type of non-volatile memory that can be electronically erased and reprogrammed.",
+        persionContent:
+          "یک نوع حافظه غیر فرار است که می‌توان آن را به صورت الکترونیکی پاک و دوباره برنامه‌ریزی نمود.",
+      },
+      {
+        englishContent:
+          "Its name was invented by Toshiba to express how much faster it could be erased - 'in a flash', which means 'very quickly'.",
+        persionContent:
+          'نام آن توسط توشیبا به وجود آمد تا بیان کند که چقدر سریع آن را می‌توان پاک کرد - "در یک چشم بر هم زدن"، که به معنی "خیلی سریع" است.',
+      },
+      {
+        englishContent:
+          "Unlike RAM, which is volatile, flash memory retains the information stored in the chip when the power is turned off.",
+        persionContent:
+          "برخلاف RAM که فرار است، فلش مموری اطلاعات ذخیره‌شده در تراشه را هنگامی که برق قطع می‌شود، حفظ می‌نماید.",
+      },
+      {
+        englishContent:
+          "This makes it ideal for use in digital cameras, laptops, network switches, video game cards, mobile phones and portable multimedia players.",
+        persionContent:
+          "این موضوع آن را برای استفاده در دوربین‌های دیجیتال، لپ‌تاپ‌ها، سوئیچ‌های شبکه، کارت‌های ویدئویی، تلفن‌های همراه و پخش‌کننده‌های چندرسانه‌ای قابل حمل ایده‌آل می‌سازد.",
+      },
+      {
+        englishContent:
+          "In addition, it offers fast read access times (although not as fast as RAM), with transfer rates of 12MB per second.",
+        persionContent:
+          "علاوه بر این، زمان دسترسی سریع‌تری برای خواندن ارائه می‌دهد (هرچند به سرعت RAM نیست)، با نرخ انتقال 12 مگابایت در ثانیه.",
+      },
+      {
+        englishContent:
+          "Unlike ROM chips, flash memory chips are rewritable, so you can update programs via software.",
+        persionContent:
+          "برخلاف تراشه‌های ROM، تراشه‌های فلش مموری قابلیت بازنویسی دارند، بنابراین می‌توانید برنامه‌ها را از طریق نرم‌افزار به‌روزرسانی کنید.",
+      },
+      {
+        englishContent:
+          "Inside the chip, data is stored in several floating gate transistors, called cells. Each cell traditionally stores one bit of data (1 = erased and 0 = programmed).",
+        persionContent:
+          "در داخل تراشه، داده‌ها در چندین ترانزیستور دروازه شناور ذخیره می‌شوند که به آن‌ها سلول می‌گویند. هر سلول به‌طور سنتی یک بیت داده (1 = پاک شده و 0 = برنامه‌ریزی شده) را ذخیره می‌کند.",
+      },
+      {
+        englishContent:
+          "New devices have a multi-level cell structure so they can store more than one bit per cell.",
+        persionContent:
+          "دستگاه‌های جدید دارای ساختار سلول چندسطحی هستند تا بتوانند بیشتر از یک بیت در هر سلول ذخیره کنند.",
+      },
+      {
+        englishContent:
+          "The chips are constructed with either NOR or NAND gates.",
+        persionContent: "تراشه‌ها با گیت‌های NOR یا NAND ساخته می‌شوند.",
+      },
+      {
+        englishContent:
+          "NOR chips function like a computer's main memory, while NAND works like a hard drive.",
+        persionContent:
+          "تراشه‌های NOR مانند حافظه اصلی کامپیوتر عمل می‌کنند، در حالی که NAND مانند یک هارد دیسک کار می‌کند.",
+      },
+      {
+        englishContent:
+          "For example, in a camera, NOR flash contains the camera's internal software, while NAND flash is used to store the images.",
+        persionContent:
+          "به عنوان مثال، در یک دوربین، فلش NOR شامل نرم‌افزار داخلی دوربین است، در حالی که فلش NAND برای ذخیره تصاویر استفاده می‌شود.",
+      },
+      {
+        englishContent: "Flash memory is used in several ways:",
+        persionContent: "فلش مموری به چند روش استفاده می‌شود:",
+      },
+      {
+        englishContent:
+          "Many PCs have their BIOS (basic input/output system) stored on a flash memory chip so it can be updated if necessary.",
+        persionContent:
+          "بسیاری از کامپیوترها BIOS (سیستم ورودی/خروجی پایه) خود را روی یک تراشه حافظه فلش ذخیره می‌کنند تا در صورت لزوم بتوان آن را به‌روز کرد.",
+      },
+      {
+        englishContent:
+          "Modems use flash memory because it allows the manufacturer to support new protocols.",
+        persionContent:
+          "مودم‌ها نیز از حافظه فلش استفاده می‌کنند زیرا این امکان را به سازنده می‌دهد تا پروتکل‌های جدید را پشتیبانی کند.",
+      },
+      {
+        englishContent:
+          "USB flash drives are used to save and move MP3s and other data files between computers.",
+        persionContent:
+          "درایوهای فلش USB برای ذخیره و انتقال فایل‌های MP3 و سایر فایل‌های داده بین رایانه‌ها استفاده می‌شوند.",
+      },
+      {
+        englishContent:
+          "They are more easily transported than external hard drives because they use solid-state technology, meaning that they don't have fragile moving parts that can break if dropped.",
+        persionContent:
+          "آن‌ها راحت‌تر از هارد دیسک‌های خارجی حمل می‌شوند زیرا از فناوری حالت جامد استفاده می‌کنند، به این معنی که قطعات متحرک شکننده‌ای ندارند که در صورت افتادن بشکنند.",
+      },
+      {
+        englishContent:
+          "However, USB flash drives have less storage capacity than hard drives.",
+        persionContent:
+          "حال، درایوهای فلش USB ظرفیت ذخیره‌سازی کمتری نسبت به هارد دیسک‌ها دارند.",
+      },
+      {
+        englishContent:
+          "New U3 smart drives allow users to store both applications and data.",
+        persionContent:
+          "درایوهای هوشمند جدید U3 به کاربران امکان ذخیره برنامه‌های کاربردی و داده‌ها را می‌دهند.",
+      },
+      {
+        englishContent:
+          "They have two drive partitions and can carry applications that run on the host computer without requiring installation.",
+        persionContent:
+          "آن‌ها دارای دو پارتیشن درایو هستند و می‌توانند برنامه‌هایی را حمل کنند که روی کامپیوتر میزبان بدون نیاز به نصب اجرا می‌شوند.",
+      },
+      {
+        englishContent:
+          "Flash memory cards are used to store images on cameras, to back up data on PDAs, to transfer games in video consoles, to record voice and music on MP3 players or to store movies on MP4 players.",
+        persionContent:
+          "کارت‌های حافظه فلش برای ذخیره تصاویر در دوربین‌ها، پشتیبان‌گیری از داده‌ها در PDAها، انتقال بازی‌ها در کنسول‌های ویدیویی، ضبط صدا و موسیقی در پخش‌کننده‌های MP3 یا ذخیره فیلم‌ها در پخش‌کننده‌های MP4 استفاده می‌شوند.",
+      },
+      {
+        englishContent:
+          "They are as small as a stamp, and capacity can range from 8MB to several gigabytes.",
+        persionContent:
+          "به اندازه یک تمبر کوچک هستند و ظرفیت آن‌ها می‌تواند از 8 مگابایت تا چندین گیگابایت متغیر باشد.",
+      },
+      {
+        englishContent:
+          "The only limitation is that flash cards are often not interchangeable between devices.",
+        persionContent:
+          "تنها محدودیت این است که کارت‌های فلش معمولاً بین دستگاه‌ها قابل تعویض نیستند.",
+      },
+      {
+        englishContent:
+          "Some formats include: CompactFlash, Secure Digital, MultiMedia Card, miniSD card, and xD-Picture Card.",
+        persionContent:
+          "برخی از فرمت‌ها شامل: CompactFlash، Secure Digital، MultiMedia Card، miniSD card، و xD-Picture Card هستند.",
+      },
+      {
+        englishContent:
+          "Sony has its own product called the Memory Stick, used in its digital still cameras, video camcorders and the PlayStation Portable.",
+        persionContent:
+          "سونی یک محصول خاص به نام Memory Stick دارد که در دوربین‌های دیجیتال، دوربین‌های ویدئویی و پلی‌استیشن قابل حمل استفاده می‌شود.",
+      },
+      {
+        englishContent:
+          "The photos stored in a digital camera can be offloaded to a computer via cable or wirelessly.",
+        persionContent:
+          "عکس‌های ذخیره شده در دوربین دیجیتال می‌توانند از طریق کابل یا به‌صورت بی‌سیم به کامپیوتر منتقل شوند.",
+      },
+      {
+        englishContent:
+          "Another option is to have a flash card reader permanently connected to your PC; you simply eject the card from the camera and put it into the reader instead of having to plug the camera in.",
+        persionContent:
+          "گزینه دیگر این است که یک خواننده کارت فلش به طور دائمی به کامپیوتر شما متصل باشد؛ شما به سادگی کارت را از دوربین خارج کرده و به جای اینکه مجبور باشید دوربین را متصل کنید، آن را در خواننده قرار دهید.",
+      },
+      {
+        englishContent: "The future of hard drives may be hybrid hard drives.",
+        persionContent: "آینده هارد دیسک‌ها ممکن است ترهیب‌های هارد دیسک باشد.",
+      },
+      {
+        englishContent:
+          "Hybrid hard drives combine a magnetic hard disk and flash memory into one device.",
+        persionContent:
+          "هارد دیسک‌های هیبریدی یک هارد دیسک مغناطیسی و حافظه فلش را در یک دستگاه ترکیب می‌کنند.",
+      },
+      {
+        englishContent:
+          "This allows computers to boot, or start, more quickly, and also reduces power consumption.",
+        persionContent:
+          "این امکان را به کامپیوترها می‌دهد که سریع‌تر بوت یا شروع به کار کنند و همچنین مصرف انرژی را کاهش می‌دهد.",
+      },
+    ],
+  },
+  {
+    lessonNumber: 13,
+    lessonTitleEnglish: "GUI operating systems!",
+    lessonTitlePersion: "رابط کاربر گرافیکی برای سیستم عامل ها",
+    detail: [
+      {
+        englishContent:
+          "The term user interface refers to the standard procedures that the user follows in order to interact with a computer.",
+        persionContent:
+          "به رابط کاربر عبارت روال‌های استانداردی اشاره دارد که کاربر برای تعامل با یک کامپیوتر از آن بهره می‌برد.",
+      },
+      {
+        englishContent:
+          "In the late 1970s and early 80s, the way users accessed computer systems was very complex.",
+        persionContent:
+          "در اواخر دهه 1970 و اوایل دهه 80، نحوه دسترسی کاربران به سیستم‌های کامپیوتری بسیار پیچیده بود.",
+      },
+      {
+        englishContent:
+          "They had to memorize and type a lot of commands just to see the contents of a disk, to copy files or to respond to a single prompt.",
+        persionContent:
+          "آنها مجبور بودند تعداد زیادی از دستورات را به خاطر بسپارند و فقط برای دیدن محتوای دیسک، برای کپی کردن فایل‌ها یا برای پاسخ دادن به یک اعلان واحد، دستورات زیادی را تایپ کنند.",
+      },
+      {
+        englishContent:
+          "In fact, it was only experts who used computers, so there was no need for a user-friendly interface.",
+        persionContent:
+          "در واقع، فقط متخصصان از کامپیوترها استفاده می‌کردند، بنابراین نیازی به رابط کاربرپسند نبود.",
+      },
+      {
+        englishContent:
+          "In 1984, Apple produced the Macintosh, the first computer with a mouse and a graphical user interface (GUI).",
+        persionContent:
+          "در سال 1984، اپل مکینتاش را تولید کرد، اولین کامپیوتر با ماوس و رابط کاربری گرافیکی (GUI).",
+      },
+      {
+        englishContent:
+          "Macs were designed with one clear aim: to facilitate interaction with the computer.",
+        persionContent:
+          "کامپیوترهای مک با هدف مشخصی طراحی شدند: تسهیل تعامل با کامپیوتر.",
+      },
+      {
+        englishContent:
+          "A few years later, Microsoft launched Windows, another operating system based on graphics and intuitive tools.",
+        persionContent:
+          "چند سال بعد، مایکروسافت ویندوز را راه‌اندازی کرد، یک سیستم‌عامل دیگر که بر اساس گرافیک و ابزارهای شهودی است.",
+      },
+      {
+        englishContent:
+          "Nowadays, computers are used by all kinds of people, and as a result there is a growing emphasis on accessibility and user-friendly systems.",
+        persionContent:
+          "امروزه کامپیوترها توسط همه افراد مورد استفاده قرار می‌گیرند و به همین دلیل تأکید بیشتری بر دسترسی‌پذیری و سیستم‌های کاربرپسند وجود دارد.",
+      },
+      {
+        englishContent:
+          "A GUI makes use of a WIMP environment: windows, icons, menus and pointer.",
+        persionContent:
+          "یک رابط کاربری گرافیکی از محیط WIMP استفاده می‌کند: پنجره‌ها، نمادها، فهرست‌های انتخاب و اشاره‌گر.",
+      },
+      {
+        englishContent:
+          "The background of the screen is called the desktop, which contains labelled pictures called icons.",
+        persionContent:
+          "پس‌زمینه صفحه نمایش به نام دسکتاپ شناخته می‌شود، که شامل تصاویری با برچسب است که آیکون نامیده می‌شوند.",
+      },
+      {
+        englishContent: "These icons represent files or folders.",
+        persionContent: "این آیکون‌ها نشان‌دهنده فایل‌ها یا پوشه‌ها هستند.",
+      },
+      {
+        englishContent:
+          "Double-clicking a folder opens a window which contains programs, documents, or more nested folders.",
+        persionContent:
+          "دو بار کلیک بر روی یک پوشه، یک پنجره باز می‌کند که شامل برنامه‌ها، اسناد یا پوشه‌های تو در تو بیشتر است.",
+      },
+      {
+        englishContent:
+          "When you are in a folder, you can launch a program or document by double-clicking the icon, or you can drag it to another location.",
+        persionContent:
+          "هنگامیکه در یک پوشه هستید، می‌توانید با دو بار کلیک بر روی آیکون، یک برنامه یا سند را اجرا کنید، یا می‌توانید آن را به مکان دیگری بکشید.",
+      },
+      {
+        englishContent:
+          "When you run a program, your PC opens a window that lets you work with different tools.",
+        persionContent:
+          "هنگام که یک برنامه را اجرا می‌کنید، رایانه شما یک پنجره باز می‌کند که به شما امکان می‌دهد با ابزارهای مختلف کار کنید.",
+      },
+      {
+        englishContent:
+          "All the programs have a high level of consistency, with similar toolbars, menu bars, buttons and dialog boxes.",
+        persionContent:
+          "همه برنامه‌ها نوار ابزار، نوار منو، دکمه‌ها و جعبه‌های محاوره‌ای مشابهی دارند.",
+      },
+      {
+        englishContent:
+          "A modern OS also provides access to networks and allows multitasking, which means you can run several programs - and do various tasks - at the same time.",
+        persionContent:
+          "یک سیستم‌عامل مدرن همچنین دسترسی به شبکه‌ها را فراهم می‌کند و امکان انجام چند وظیفه را می‌دهد، به این معنی که می‌توانید چندین برنامه را اجرا کنید - و کارهای مختلفی را همزمان انجام دهید.",
+      },
+      {
+        englishContent: "The most popular operating systems are:",
+        persionContent: "محبوب‌ترین سیستم‌عامل‌ها عبارتند از:",
+      },
+      {
+        englishContent:
+          "The Windows family - designed by Microsoft and used on most PCs. The most recent version is Windows Vista.",
+        persionContent:
+          "خانواده ویندوز - طراحی شده توسط مایکروسافت و مورد استفاده در اکثر رایانه‌ها. جدیدترین نسخه ویندوز ویستا است.",
+      },
+      {
+        englishContent:
+          "Mac OS - created by Apple and used on Macintosh computers.",
+        persionContent:
+          "سیستم‌عامل مک - ساخته شده توسط اپل و مورد استفاده در کامپیوترهای مک.",
+      },
+      {
+        englishContent:
+          "Unix - a multi-user system, found on mainframes and workstations in corporate installations.",
+        persionContent:
+          "یونیکس - یک سیستم چند کاربره که در کامپیوترهای بزرگ و ایستگاه‌های کاری در تأسیسات شرکتی یافت می‌شود.",
+      },
+      {
+        englishContent:
+          "Linux - open-source software developed under the GNU General Public License.",
+        persionContent:
+          "لینوکس - نرم‌افزار متن باز که تحت مجوز عمومی گنو توسعه یافته است.",
+      },
+      {
+        englishContent:
+          "This means anybody can copy its source code, change it and distribute it.",
+        persionContent:
+          "این به این معنی است که هر کس می‌تواند کد منبع آن را کپی کند، آن را تغییر دهد و توزیع کند.",
+      },
+      {
+        englishContent:
+          "It is used in computers, appliances and small devices.",
+        persionContent:
+          "این سیستم‌عامل در رایانه‌ها، لوازم خانگی و دستگاه‌های کوچک استفاده می‌شود.",
+      },
+      {
+        englishContent:
+          "Windows Mobile - used on most PDAs and smartphones (PDAs incorporating mobile phones).",
+        persionContent:
+          "ویندوز موبایل - در اکثر PDAها و تلفن‌های هوشمند (PDAهایی که تلفن‌های همراه را در خود دارند) استفاده می‌شود.",
+      },
+      {
+        englishContent: "Palm OS - used on Palm handheld devices.",
+        persionContent:
+          "سیستم‌عامل پالم - در دستگاه‌های دستی پالم استفاده می‌شود.",
+      },
+      {
+        englishContent:
+          "RIM - used on BlackBerry communication devices. Developed by Research In Motion.",
+        persionContent:
+          "RIM - در دستگاه‌های ارتباطی بلک‌بری استفاده می‌شود. این سیستم‌عامل توسط شرکت Research In Motion توسعه یافته است.",
+      },
+      {
+        englishContent:
+          "The Symbian OS - used by some phone makers, including Nokia and Siemens.",
+        persionContent:
+          "سیستم‌عامل سیمبیان - توسط برخی سازندگان تلفن، از جمله نوکیا و سیمنز استفاده می‌شود.",
+      },
+      {
+        englishContent:
+          "These computer platforms differ in areas such as device installation, network connectivity or compatibility with application software.",
+        persionContent:
+          "این سکوهای کامپیوتری در زمینه‌هایی مانند نصب دستگاه، اتصال به شبکه یا سازگاری با نرم‌افزارهای کاربردی متفاوت هستند.",
+      },
+    ],
+  },
 ];

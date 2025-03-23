@@ -57,7 +57,7 @@ function Main({
       <div className="border mx-3 my-1 border-gray-600"></div>  
       <div  
         ref={contentRef}  
-        className={`overflow-hidden transition-height duration-500 ease-in-out ${hidden ? 'max-h-screen' : 'max-h-0'}`}  
+        className={`overflow-hidden transition-height duration-[1s] ease-in-out ${hidden ? 'max-h-[10000px]' : 'max-h-0'}`}  
       >  
         <main className="p-2 flex flex-col gap-6">  
           {content.map((context: detail, index: number) => (  
