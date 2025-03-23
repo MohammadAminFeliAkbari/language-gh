@@ -3,6 +3,7 @@ import { data } from "./data";
 
 function Page() {
   return (
+    <div className="flex justify-center">
     <div className="mx-auto">
       <div className="max-w-[900px]">
         {data.map((item, index) => (
@@ -15,6 +16,7 @@ function Page() {
           />
         ))}
       </div>
+    </div>
     </div>
   );
 }
