@@ -29,7 +29,7 @@ function ComTranslate({ englishContent, persionContent }: detail) {
           onClick={speakEnglishContent}  
           className="cursor-pointer mr-1"  
         />  
-        {englishContent}  
+        <span className="cursor-pointer" onClick={click}>{englishContent}</span>
       </p>  
       <div className={`persian-content transition-height duration-500 ease-in-out ${hidden ? 'max-h-full opacity-100' : 'max-h-0 opacity-0'}`}>  
         {hidden && <p>{persionContent}</p>}  

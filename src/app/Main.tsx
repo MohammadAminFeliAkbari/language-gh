@@ -32,18 +32,11 @@ function Main({
     <div className="m-3 bg-gray-800 p-4 rounded">  
       <header onClick={click} className="cursor-pointer flex justify-around items-center lg:min-w-[900px] relative md:min-w-[700px] sm:min-w-[400px] gap-10">  
         <div className="left flex items-center gap-3 ml-20">  
-          <div className="absolute left-0 flex mr-10">  
-            {!hidden ? (  
+          <div className="absolute left-0 flex mr-10">    
               <FontAwesomeIcon  
                 icon={faArrowDown}  
-                className="text-[12px] cursor-pointer mb-1 mr-1"  
+                className={`${hidden? "rotate-180" : ''} transition-[10s] ease-in-out text-[12px] cursor-pointer mb-1 mr-1`}
               />  
-            ) : (  
-              <FontAwesomeIcon  
-                icon={faArrowUp}  
-                className="text-[12px] cursor-pointer mb-1 mr-1"  
-              />  
-            )}  
             <h2 className="text-[12px]">Unit - {lessonNumber}</h2>  
           </div>  
 
