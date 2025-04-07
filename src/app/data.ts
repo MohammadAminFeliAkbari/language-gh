@@ -1628,4 +1628,331 @@ export const data = [
       },
     ],
   },
+
+  {
+    lessonNumber: 14,
+    lessonTitleEnglish: "Software update",
+    lessonTitlePersion: "به روزرسانی نرم افزار",
+    detail: [
+      {
+        englishContent:
+          "Dear Mr. Jones, We are pleased to inform you that an updated version of Top Project is now available.",
+        persionContent:
+          "جناب آقای جونز، خوشحالیم که به اطلاع شما برسانیم که نسخه به‌روزرسانی شده پروژه تاپ هم‌اکنون آماده است.",
+      },
+      {
+        englishContent:
+          "To obtain your copy, simply call us and we'll send you, absolutely free, the latest version of the program.",
+        persionContent:
+          "برای دریافت نسخه خود، کافی است با ما تماس بگیرید و ما نسخه جدید برنامه را به‌صورت کاملاً رایگان برای شما ارسال خواهیم کرد.",
+      },
+      {
+        englishContent:
+          "We also enclose a catalogue with the new range of SunRise machines and the latest software products.",
+        persionContent:
+          "ما همچنین یک کاتالوگ شامل محصولات جدید دستگاه‌های SunRise و جدیدترین محصولات نرم‌افزاری را ضمیمه کرده‌ایم.",
+      },
+      {
+        englishContent:
+          "There are special offers for all our clients, including the book The Basics of Budgeting and Balancing Your Finances.",
+        persionContent:
+          "برای تمام مشتریان ما پیشنهادات ویژه‌ای وجود دارد، از جمله کتاب «اصول اولیه بودجه‌ بندی و تعادل در امور مالی».",
+      },
+      {
+        englishContent:
+          "To order by phone, call 013328430477. To order via the Internet, visit our website at: http://www.sunrisecomps.com.",
+        persionContent:
+          "برای ثبت سفارش تلفنی، با شماره 013328430477 تماس بگیرید. برای ثبت سفارش از طریق اینترنت، به وب‌سایت ما به آدرس http://www.sunrisecomps.com مراجعه کنید.",
+      },
+      {
+        englishContent: "Sincerely Yours, Barry Stephens",
+        persionContent: "با احترام، باری استیونز",
+      },
+      {
+        englishContent:
+          "The Standard toolbar lists the icons to save or print a document, spell check, etc. The formatting Toolbar is the area for changing font, alignment, indentation, etc.",
+        persionContent:
+          "نوار ابزار استاندارد آیکون‌هایی برای ذخیره یا چاپ یک سند، بررسی املا و غیره دارد. نوار ابزار قالب‌بندی نیز ناحیه‌ای برای تغییر فونت، هم‌ترازی، تورفتگی و غیره است.",
+      },
+      {
+        englishContent:
+          "A font consists of three elements: typeface, type style, and type size. For example, Palatino bold at 10 points.",
+        persionContent:
+          "یک فونت شامل سه عنصر است: طرح حروف، سبک حروف و اندازه حروف. به عنوان مثال، «پالاتینو» ضخیم در اندازه 10 نقطه.",
+      },
+      {
+        englishContent:
+          "Type style refers to a visual characteristic of a typeface, for example, B for Bold, I for Italic, and U for underlined.",
+        persionContent:
+          "سبک حروف به یک ویژگی بصری از یک نوع حروف اشاره دارد، به عنوان مثال، B برای ضخیم، I برای کج و U برای زیرخط‌دار.",
+      },
+      {
+        englishContent:
+          "If you need to change indentation - the space between the page margin and where the text aligns - you can click the Increase or Decrease indent buttons.",
+        persionContent:
+          "اگر نیاز به تغییر تورفتگی دارید - فضای بین حاشیه صفحه و جایی که متن تراز می‌شود - می‌توانید بر روی دکمه‌های افزایش یا کاهش تورفتگی کلیک کنید.",
+      },
+      {
+        englishContent:
+          "The header and footer commands allow you to specify customized texts at the top and bottom of every page.",
+        persionContent:
+          "دستورات هدر و فوتر به شما این امکان را می‌دهد که متون سفارشی را در بالای هر صفحه و پایین آن درج کنید.",
+      },
+    ],
+  },
+
+  {
+    lessonNumber: 15,
+    lessonTitleEnglish: "DataBase",
+    lessonTitlePersion: "پایگاه های داده",
+    detail: [
+      {
+        englishContent:
+          "A database is a collection of related data, and the software used in databases to store, organize and retrieve the data is called the database management system, or DBMS.",
+        persionContent:
+          "یک پایگاه داده مجموعه‌ای از داده‌های مرتبط است و نرم‌افزاری که برای ذخیره، سازماندهی و بازیابی داده‌ها در پایگاه‌های داده استفاده می‌شود، سامانه مدیریت پایگاه داده یا DBMS نامیده می‌شود.",
+      },
+      {
+        englishContent:
+          "However, we often use the word database to cover both meanings.",
+        persionContent:
+          "با این حال، ما اغلب از کلمه پایگاه داده برای پوشش هر دو معنا استفاده می‌کنیم.",
+      },
+      {
+        englishContent:
+          "A database can manage any type of data, including text, numbers, images, sound, video, and hyperlinks (links to websites).",
+        persionContent:
+          "یک پایگاه داده می‌تواند هر نوع داده‌ای از جمله متن، اعداد، تصاویر، صدا، ویدئو و هایپرلینک‌ها (لینک‌ها به وب‌سایت‌ها) را مدیریت کند.",
+      },
+      {
+        englishContent:
+          "Information is entered into the database via fields. Each field holds a separate piece of information, and the fields are grouped together in records.",
+        persionContent:
+          "اطلاعات از طریق فیلدها به پایگاه داده وارد می‌شود. هر فیلد یک قطعه جداگانه اطلاعات را در خود نگه می‌دارد و فیلدها در رکوردها دسته‌بندی می‌شوند.",
+      },
+      {
+        englishContent:
+          "Therefore, a record about an employee might consist of several fields which give their name, address, phone number, date of birth, salary, and length of employment with the company.",
+        persionContent:
+          "بنابراین، یک رکورد درباره یک کارمند ممکن است شامل چند فیلد باشد که نام، آدرس، شماره تلفن، تاریخ تولد، حقوق و طول مدت اشتغال او در شرکت را ارائه می‌دهد.",
+      },
+      {
+        englishContent:
+          "Records are grouped together into files which hold large amounts of information.",
+        persionContent:
+          "رکوردها در فایل‌هایی دسته‌بندی می‌شوند که مقادیر زیادی از اطلاعات را در خود نگه می‌دارند.",
+      },
+      {
+        englishContent:
+          "Files can easily be updated - you can always change fields, add new records or delete old ones.",
+        persionContent:
+          "فایل‌ها به راحتی به‌روزرسانی می‌شوند - شما همیشه می‌توانید فیلدها را تغییر دهید، رکوردهای جدید اضافه کنید یا موارد قدیمی را حذف کنید.",
+      },
+      {
+        englishContent:
+          "An electronic database is much faster to consult and update than a card index system and occupies a lot less space.",
+        persionContent:
+          "یک پایگاه داده الکترونیکی بسیار سریع‌تر از یک سیستم فهرست کارت مشاوره و به‌روزرسانی می‌شود و فضای بسیار کمتری را اشغال می‌کند.",
+      },
+      {
+        englishContent:
+          "With the right software, you can keep track of stock, sales, market trends, orders, and other information that can help your company stay successful.",
+        persionContent:
+          "با نرم‌افزار مناسب، می‌توانید موجودی، فروش، روندهای بازار، سفارش‌ها و اطلاعات دیگر را پیگیری کنید که می‌تواند به موفقیت شرکت شما کمک کند.",
+      },
+      {
+        englishContent:
+          "A database program lets you create an index - a list of records ordered according to the content of certain fields.",
+        persionContent:
+          "برنامه پایگاه داده به شما این امکان را می‌دهد که یک شاخص (نمایه) ایجاد کنید - لیستی از رکوردها که بر اساس محتویات برخی فیلدها مرتب شده‌اند.",
+      },
+      {
+        englishContent:
+          "This helps you to search the database and sort records into numerical or alphabetical order very quickly.",
+        persionContent:
+          "این به شما کمک می‌کند تا پایگاه داده را جستجو کنید و رکوردها را به سرعت به ترتیب عددی یا الفبایی مرتب کنید.",
+      },
+
+      {
+        englishContent:
+          "Modern databases are relational - that is, they are made up of related files: customers and orders, vendors and purchases, students and tutors, etc.",
+        persionContent:
+          "پایگاه‌های داده مدرن رابطه‌ای هستند - به عبارت دیگر، آنها از فایل‌های مرتبط تشکیل شده‌اند: مشتریان و سفارشات، فروشندگان و خریدها، دانش‌آموزان و اساتید و غیره.",
+      },
+      {
+        englishContent:
+          "Two database files can be related as long as they have a common field. A file of students, for example, could include a field called Tutor ID and another file with details of the tutors could include the same field.",
+        persionContent:
+          "دو فایل پایگاه داده می‌توانند به هم مرتبط شوند به شرطی که یک فیلد مشترک داشته باشند. به عنوان مثال، یک فایل از دانش‌آموزان می‌تواند شامل فیلدی به نام ID Tutor باشد و فایل دیگری با جزئیات اساتید نیز می‌تواند شامل همان فیلد باشد.",
+      },
+      {
+        englishContent:
+          "This key field can be used to relate the two files. Databases like Oracle, DB2, and MySQL can manage these relationships.",
+        persionContent:
+          "این فیلد کلیدی می‌تواند برای ارتباط این دو فایل استفاده شود. پایگاه‌های داده‌ای مانند Oracle، DB2 و MySQL می‌توانند این روابط را مدیریت کنند.",
+      },
+      {
+        englishContent:
+          "A database query function allows you to extract information according to certain conditions or criteria.",
+        persionContent:
+          "عملکرد پرس و جوی پایگاه داده به شما امکان می‌دهد اطلاعات را بر اساس شرایط یا معیارهای خاص استخراج کنید.",
+      },
+      {
+        englishContent:
+          "For example, if a managing director wanted to know all the customers that spend more than €8,000 per month, the program would search on the name field and the money field simultaneously.",
+        persionContent:
+          "به عنوان مثال، اگر یک مدیر عامل بخواهد همه مشتریانی که بیش از 8000 یورو در ماه هزینه می‌کنند را بشناسد، برنامه به طور همزمان در فیلد نام و فیلد پول جستجو می‌کند.",
+      },
+      {
+        englishContent:
+          "The best database packages also include network facilities, which can make businesses more productive.",
+        persionContent:
+          "بهترین بسته‌های پایگاه داده همچنین شامل امکانات شبکه‌ای هستند که می‌توانند کسب و کارها را تولیدی‌تر کنند.",
+      },
+      {
+        englishContent:
+          "For example, managers of different departments can have direct access to a common database.",
+        persionContent:
+          "به عنوان مثال، مدیران بخش‌های مختلف می‌توانند به پایگاه داده مشترکی دسترسی مستقیم داشته باشند.",
+      },
+      {
+        englishContent:
+          "Most aspects of the program can be protected by user-defined passwords and other security devices.",
+        persionContent:
+          "بیشتر جنبه‌های برنامه می‌توانند توسط رمزهای عبور تعریف شده توسط کاربر و سایر دستگاه‌های امنیتی محافظت شوند.",
+      },
+      {
+        englishContent:
+          "For example, if you wanted to share an employee's personal details but not their commission, you could protect the commission field.",
+        persionContent:
+          "به عنوان مثال، اگر می‌خواهید جزئیات شخصی یک کارمند را به اشتراک بگذارید اما کمیسیون او را نه، می‌توانید فیلد کمیسیون را محافظت کنید.",
+      },
+    ],
+  },
+
+  {
+    lessonNumber: 16,
+    lessonTitleEnglish: "Email features",
+    lessonTitlePersion: "ویژگی های ایمیل",
+    detail: [
+      {
+        englishContent:
+          "When you set up an account with an Internet Service Provider, you are given an email address and a password.",
+        persionContent:
+          "هنگامیکه با یک ارائه‌دهنده خدمات اینترنت (ISP) حساب کاربری راه‌اندازی می‌کنید، به شما یک آدرس ایمیل و یک رمز عبور داده می‌شود.",
+      },
+      {
+        englishContent:
+          "The mail you receive is stored on the mail server of your ISP - in a simulated mailbox - until you next connect and download it to your hard drive.",
+        persionContent:
+          "ایمیلی که دریافت می‌کنید بر روی سرور پستی ISP شما - در یک صندوق پست شبیه‌سازی شده - ذخیره می‌شود تا اینکه بعداً متصل شوید و آن را به هارد دیسک خود بارگذاری کنید.",
+      },
+      {
+        englishContent:
+          "There are two ways to get email over the Internet. One is by using a mail program (known as an email client) installed on your computer, for example Eudora or Outlook Express.",
+        persionContent:
+          "دو راه برای دریافت ایمیل از طریق اینترنت وجود دارد. یکی استفاده از یک برنامه پستی (معروف به کلاینت ایمیل) است که بر روی رایانه شما نصب شده است، به عنوان مثال Eudora یا Outlook Express.",
+      },
+      {
+        englishContent:
+          "The other way is to use web-based email, accessible from any web browser. Hotmail and Gmail are good examples.",
+        persionContent:
+          "راه دیگر استفاده از ایمیل مبتنی بر وب است که از هر مرورگر وب قابل دسترسی است. Hotmail و Gmail نمونه‌های خوبی هستند.",
+      },
+      {
+        englishContent:
+          "You can make the message more expressive by including emoticons, also called smileys. For example, ;-) for wink, :-) for happy, :-o for surprised, :-D for laughing, etc.",
+        persionContent:
+          "شما می‌توانید با اضافه کردن شکلک‌ها (که به آنها لبخندک یا ایموجی نیز می‌گویند) پیام را بیانگرتر کنید. به عنوان مثال، ;-) برای چشمک، :-) برای خوشحال، :-o برای متعجب، :-D برای خنده و غیره.",
+      },
+      {
+        englishContent:
+          "You may also like to add a signature file, a pre-written text file appended to the end of the message.",
+        persionContent:
+          "شما ممکن است بخواهید یک فایل امضاء نیز اضافه کنید، که یک متن از پیش نوشته شده است که به انتهای پیام پیوست می‌شود.",
+      },
+      {
+        englishContent: "The name given to unsolicited email messages is spam.",
+        persionContent:
+          "نامی که به پیام‌های ناخواسته داده می‌شود، هرزنامه (spam) است.",
+      },
+
+      {
+        englishContent: "The anatomy of an email",
+        persionContent: "کالبد یک ایمیل",
+      },
+      {
+        englishContent: "The header",
+        persionContent: "سربرگ",
+      },
+      {
+        englishContent: "To: name and address of the recipient",
+        persionContent: "به: نام و آدرس دریافت‌کننده",
+      },
+      {
+        englishContent: "From: name and address of the sender",
+        persionContent: "از: نام و آدرس فرستنده",
+      },
+      {
+        englishContent: "Cc: carbon copy sent to another person",
+        persionContent: "Cc: یک نسخه رونوشت ارسال شده به شخص دیگری",
+      },
+      {
+        englishContent: "Bcc: blind carbon copy",
+        persionContent: "Bcc: رونوشت مخفی",
+      },
+      {
+        englishContent: "Subject: topic of the message",
+        persionContent: "موضوع: عنوان پیام",
+      },
+      {
+        englishContent: "Attachment: files added to the message",
+        persionContent: "ضمیمه: فایل‌های اضافه شده به پیام",
+      },
+      {
+        englishContent: "The username (a person's name or nickname)",
+        persionContent: "نام کاربری (نام یا لقب یک فرد)",
+      },
+      {
+        englishContent: "The body contains the message itself",
+        persionContent: "بدنه شامل خود پیام است",
+      },
+      {
+        englishContent:
+          "The domain name or network address - that is, the mail server where the account is located.",
+        persionContent:
+          "آدرس شبکه‌ای یا نام دامنه - یعنی سرور پست الکترونیکی که حساب در آن قرار دارد.",
+      },
+      {
+        englishContent:
+          "The final part adds information about it, for example com = company, uk = United Kingdom, fr = France, etc.",
+        persionContent:
+          "قسمت آخر اطلاعاتی در مورد آن اضافه می‌کند، به عنوان مثال com = شرکت، uk = انگلستان، fr = فرانسه و غیره.",
+      },
+      {
+        englishContent: "Hi John,",
+        persionContent: "سلام جان،",
+      },
+      {
+        englishContent:
+          "I have to prepare a project for my English class about the history of the Internet and how it's used in our day-to-day lives.",
+        persionContent:
+          "من باید پروژه‌ای برای کلاس انگلیسی‌ام درباره تاریخچه اینترنت و چگونگی استفاده از آن در زندگی روزمره‌مان آماده کنم.",
+      },
+      {
+        englishContent:
+          "Do you have any thoughts about what I should include? I've included my first thoughts here as an attachment.",
+        persionContent:
+          "آیا نظری در مورد آنچه که باید شامل شود دارید؟ من افکار اولیه خود را به عنوان ضمیمه در اینجا آورده‌ام.",
+      },
+      {
+        englishContent: "Could you send me some more ideas?",
+        persionContent: "آیا می‌توانید چند ایده دیگر برای من بفرستید؟",
+      },
+      {
+        englishContent: "All the best.",
+        persionContent: "با آرزوی بهترین‌ها.",
+      },
+    ],
+  },
 ];
