@@ -2079,9 +2079,9 @@ export const data = [
       },
       {
         englishContent:
-          'You can use just audio, video and audio simultaneously, or the screen sharing capability to collaborate on documents without audio or video.',
+          'You can use audio, video, audio simultaneously, or the screen sharing capability to collaborate on documents without audio or video.',
         persionContent:
-          'میتوانید از صدا، ویدیو و صدا به طور همزمان یا قابلیت به اشتراکگذاری صفحهنمایش برای همکاری )تشریک مساعی( در اسناد بدون صدا یا ویدیو استفاده کنید.'
+          'می‌توانید از صدا، ویدیو، و قابلیت به اشتراک‌گذاری صفحه نمایش به طور همزمان یا برای همکاری در اسناد بدون صدا یا ویدیو استفاده کنید.'
       },
       {
         englishContent:
@@ -2091,9 +2091,9 @@ export const data = [
       },
       {
         englishContent:
-          "If you have flat-rate internet access, you can't beat the price - it's practically free.",
+          "persionContentflat-rate internet access, you can't beat the price - it's practically free.",
         persionContent:
-          'اگر به اینترنت با نرخ ثابت دسترسی دارید، نمیتوانید )توی سر( قیمت آن بزنید - عمالً رایگان است.'
+          'اگر به اینترنت با نرخ ثابت دسترسی دارید، نمی‌توانید از نظر قیمت رقابت کنید - تقریباً رایگان است.'
       },
       {
         englishContent:
@@ -2111,7 +2111,7 @@ export const data = [
         englishContent:
           'People also use more traditional chat conferencing or bulletin board systems (BBSs) to communicate online.',
         persionContent:
-          'مردم همچنین از سیستمهای همایش قدیمیتر یا تابلوی اعالنات )BBS) برای برقراری ارتباط آنالین استفاده میکنند.'
+          'مردم همچنین از سیستم‌های کنفرانس چت سنتی‌تر یا تابلوهای اعلانات (BBS) برای برقراری ارتباط آنلاین استفاده می‌کنند.'
       },
       {
         englishContent:
@@ -2123,13 +2123,13 @@ export const data = [
         englishContent:
           'Chat software can be used on the Web with your browser to conduct online chat sessions with other users and can accommodate between 50 and 1,000 users simultaneously.',
         persionContent:
-          'نرمافزار چت را میتوان در وب از طریق مرورگر بهکار برد؛ تا توسط آن جلسات چت برخط با سایر کاربران را هدایت )اجرا، انجام( نمود؛ }بدین طریق{ میتواند بین 50 تا 1000 کاربر را به طور همزمان در }جلسه آنالین{ جای داد.'
+          'نرم‌افزار چت را می‌توان در وب از طریق مرورگر به کار برد تا جلسات چت آنلاین با سایر کاربران را هدایت کند و می‌تواند بین 50 تا 1,000 کاربر را به طور همزمان در خود جای دهد.'
       },
       {
         englishContent:
           'Some companies even use chat conferencing on their websites to facilitate communication with customers.',
         persionContent:
-          'برخی از شرکتها حتی در وبسایت خود از گفتگویجمعی برای تسهیل ارتباط با مشتریان بهره میبرند.'
+          'برخی از شرکت‌ها حتی در وب‌سایت‌های خود از چت کنفرانسی برای تسهیل ارتباط با مشتریان استفاده می‌کنند.'
       },
       {
         englishContent:
@@ -2145,7 +2145,7 @@ export const data = [
       },
       {
         englishContent:
-          "Then Instant Messaging, or IM, is the way to go. Many IM services now offer audio and video capabilities, so if you have a microphone and a webcam, you can chat and see who you're talking to.",
+          "Then Instant Messaging, or IM, is the way to go. Many IM services now offer audio and video capabilities, so persionContenta microphone and a webcam, you can chat and see who you're talking to.",
         persionContent:
           '}برای این منظور{ یک راهحل در پیش گرفتن پیامرسانی فوری یا IM است. در حال حاضر بسیاری از سرویسهای IM قابلیتهای صوتی و تصویری ارائه میدهند، بنابراین اگر میکروفون و وب کم دارید، میتوانید چت کنید و ببینید با چه کسی صحبت میکنید.'
       },
@@ -2222,7 +2222,7 @@ export const data = [
       {
         englishContent:
           'Avatars are 3-D graphical representations of the participants.',
-        persionContent: 'آواتارها نمایش گرافیکی سهبعدی از شرکتکنندگان هستند.'
+        persionContent: 'آواتارها نمایش گرافیکی سهبعدی از شرکت کنندگان هستند.'
       },
       {
         englishContent:
@@ -2234,6 +2234,362 @@ export const data = [
         englishContent: 'Paragraphs a-d adapted from www.learnthenet.com',
         persionContent:
           'پاراگرافهای a تا d از com.learnthenet.www اقتباس شدهاند.'
+      }
+    ]
+  },
+  {
+    lessonNumber: 19,
+    lessonTitleEnglish: 'Security and privacy on the Internet',
+    lessonTitlePersion: 'امنیت و حریم خصوصی در اینترنت',
+    detail: [
+      {
+        englishContent:
+          'There are many benefits from an open system like the Internet, but one of the risks is that we are often exposed to hackers, who break into computer systems just for fun, to steal information, or to spread viruses.',
+        persionContent:
+          'نیاز به امنیت در سیستم‌های باز مانند اینترنت بسیار مهم است، اما یکی از خطرات آن این است که ما اغلب در معرض هکرهایی هستیم که برای تفریح، سرقت اطلاعات، یا انتشار ویروس به سیستم‌های کامپیوتری نفوذ می‌کنند.'
+      },
+      {
+        englishContent:
+          'So how do we go about making our online transactions secure?',
+        persionContent: 'حالا چگونه تراکنش‌های آنلاین خود را امن کنیم؟'
+      },
+      {
+        englishContent: 'Security on the Web',
+        persionContent: 'امنیت در وب'
+      },
+      {
+        englishContent:
+          'Security is crucial when you send confidential information online.',
+        persionContent:
+          'حفظ امنیت در مواقعی که اطلاعات محرمانه‌ای را ارسال می‌کنید، بسیار مهم است.'
+      },
+      {
+        englishContent:
+          'Consider, for example, the process of buying a book on the Web. You have to type your credit card number into an order form which passes from computer to computer on its way to the online bookstore.',
+        persionContent:
+          'برای مثال، هنگام خرید کتاب از اینترنت، باید شماره کارت اعتباری خود را در فرم سفارش وارد کنید که از طریق چندین کامپیوتر عبور می‌کند تا به فروشگاه آنلاین برسد.'
+      },
+      {
+        englishContent:
+          'If one of the intermediary computers is infiltrated by hackers, your data can be copied.',
+        persionContent:
+          'اگر یکی از این کامپیوترهای میانی توسط هکرها نفوذ شود، داده‌های شما می‌تواند کپی شود.'
+      },
+      {
+        englishContent:
+          'To avoid risks, you should set all security alerts to high on your web browser.',
+        persionContent:
+          'برای جلوگیری از این خطرات، باید تنظیمات در مرورگر وب خود را بر روی حالت بالا قرار دهید.'
+      },
+      {
+        englishContent:
+          'Mozilla Firefox displays a lock when the website is secure and allows you to disable or delete cookies - small files placed on your hard drive by web servers so that they can recognize your PC when you return to their site.',
+        persionContent:
+          'مرورگر Firefox، زمانی که سایت امن است، قفل را نشان می‌دهد و به شما اجازه می‌دهد کوکی‌ها را غیرفعال یا حذف کنید - فایل‌های کوچکی که توسط سرورهای وب بر روی هارد دیسک شما قرار می‌گیرند تا زمانی که به سایت بازگردید، شناخته شوید.'
+      },
+      {
+        englishContent:
+          'If you use online banking services, make sure they use digital certificates - files that are like digital identification cards and that identify users and web servers.',
+        persionContent:
+          'اگر از خدمات بانکداری آنلاین استفاده می‌کنید، مطمئن شوید که از گواهی‌نامه‌های دیجیتال استفاده می‌کنند - فایل‌هایی که مانند کارت‌های شناسایی دیجیتال هستند و کاربران و سرورها را شناسایی می‌کنند.'
+      },
+      {
+        englishContent:
+          'Also be sure to use a browser that is compliant with SSL (Secure Sockets Layer), a protocol which provides secure transactions.',
+        persionContent:
+          'همچنین، از مرورگری استفاده کنید که با پروتکل SSL (امولاتور لایه سوکت‌های امن) سازگار باشد، پروتکلی که تراکنش‌های امن را فراهم می‌کند.'
+      },
+      {
+        englishContent: 'Privacy of email',
+        persionContent: 'حریم خصوصی ایمیل'
+      },
+      {
+        englishContent:
+          'Similarly, as your email travels across the Net, it is copied temporarily onto many computers in between.',
+        persionContent:
+          'همین طور که ایمیل شما در اینترنت سفر می‌کند، موقتاً روی چندین کامپیوتر کپی می‌شود.'
+      },
+      {
+        englishContent:
+          'This means that it can be read by people who illegally enter computer systems.',
+        persionContent:
+          'این بدان معنی است که افرادی که به صورت غیرقانونی وارد سیستم‌های کامپیوتری می‌شوند، می‌توانند آن را بخوانند.'
+      },
+      {
+        englishContent:
+          'The only way to protect a message is to put it in a sort of virtual envelope - that is, to encode it with some form of encryption.',
+        persionContent:
+          'تنها راه برای محافظت از یک پیام، قرار دادن آن در نوعی پاکت مجازی است، یعنی رمزگذاری آن با روشی از رمزنگاری.'
+      },
+      {
+        englishContent:
+          'A system designed to send email privately is Pretty Good Privacy, a freeware program written by Phil Zimmerman.',
+        persionContent:
+          'سیستم طراحی شده برای ارسال ایمیل به صورت خصوصی، Pretty Good Privacy است؛ این برنامه رایگان است و توسط فیل زیمرمن نوشته شده است.'
+      },
+      {
+        englishContent:
+          'Private networks can be attacked by intruders who attempt to obtain information such as Social Security numbers, bank accounts or research and business reports.',
+        persionContent:
+          'شبکه‌های خصوصی ممکن است توسط نفوذگران مورد حمله قرار گیرند که تلاش می‌کنند اطلاعاتی مانند شماره‌های تامین اجتماعی، حساب‌های بانکی یا گزارش‌های تحقیقاتی و تجاری را به دست آورند.'
+      },
+      {
+        englishContent:
+          'To protect crucial data, companies hire security consultants who analyze the risks and provide solutions.',
+        persionContent:
+          'برای حفاظت از داده‌های حیاتی، شرکت‌ها مشاوران امنیتی استخدام می‌کنند تا ریسک‌ها را تحلیل کرده و راه‌حل‌هایی ارائه دهند.'
+      },
+      {
+        englishContent:
+          'The most common methods of protection are passwords for access control, firewalls, and encryption and decryption systems.',
+        persionContent:
+          'متداول‌ترین روش‌های حفاظت شامل رمزهای عبور برای کنترل دسترسی، دیوارهای آتش، و سیستم‌های رمزگذاری و رمزگشایی است.'
+      },
+      {
+        englishContent:
+          'Encryption changes data into a secret code so that only someone with a key can read it.',
+        persionContent:
+          'رمزگذاری داده‌ها را به کد مخفی تبدیل می‌کند، به گونه‌ای که تنها کسی که کلید دارد بتواند آن را بخواند.'
+      },
+      {
+        englishContent:
+          'Decryption converts encrypted data back into its original form.',
+        persionContent:
+          'رمزگشایی، داده‌های رمزگذاری‌شده را به حالت اصلی خود برمی‌گرداند.'
+      },
+      {
+        englishContent:
+          'Malware (malicious software) are programs designed to infiltrate or damage your computer, for example viruses, worms, Trojans and spyware.',
+        persionContent:
+          'نرم‌افزارهای مخرب (بدافزارها) برنامه‌هایی هستند که برای نفوذ یا آسیب رساندن به رایانه شما طراحی شده‌اند، مانند ویروس‌ها، کرم‌ها، تروجان‌ها و نرم‌افزارهای جاسوسی.'
+      },
+      {
+        englishContent:
+          'A virus can enter a PC via a disc drive - if you insert an infected disc - or via the Internet.',
+        persionContent:
+          'یک ویروس می‌تواند از طریق درایو دیسک وارد رایانه شود، اگر دیسک آلوده‌ای را وارد کنید؛ یا از طریق اینترنت.'
+      },
+      {
+        englishContent:
+          'A worm is a self-copying program that spreads through email attachments; it replicates itself and sends a copy to everyone in an address book.',
+        persionContent:
+          'کرم یک برنامه‌ی خودتکثیر است که از طریق پیوست‌های ایمیل پخش می‌شود؛ خود را تکرار می‌کند و نسخه‌ای برای همه افراد در دفترچه آدرس می‌فرستد.'
+      },
+      {
+        englishContent:
+          'A Trojan horse is disguised as a useful program; it may affect data security.',
+        persionContent:
+          'اسب تروا مخفی شده در قالب یک برنامه مفید است، اما ممکن است امنیت داده‌ها را تحت تاثیر قرار دهد.'
+      },
+      {
+        englishContent:
+          'Spyware collects information from your PC without your consent.',
+        persionContent:
+          'نرم‌افزارهای جاسوس اطلاعات را بدون رضایت شما از رایانه‌تان جمع‌آوری می‌کنند.'
+      },
+      {
+        englishContent:
+          "Most spyware and adware (software that allows pop-ups - that is, advertisements that suddenly appear on your screen) is included with 'free' downloads.",
+        persionContent:
+          'بیشتر نرم‌افزارهای جاسوس و تبلیغاتی (نرم‌افزارهایی که اجازه می‌دهند پنجره‌های تبلیغاتی ناگهان ظاهر شوند) همراه با دانلودهای رایگان هستند.'
+      },
+      {
+        englishContent:
+          "If you want to protect your PC, don't open email attachments from strangers and take care when downloading files from the Web.",
+        persionContent:
+          'اگر می‌خواهید از کامپیوتر خود محافظت کنید، به ایمیل‌های ناشناس پیوست‌ها را باز نکنید و هنگام دانلود فایل‌ها از وب احتیاط کنید.'
+      },
+      {
+        englishContent:
+          'Remember to update your anti-virus software as often as possible, since new viruses are being created all the time.',
+        persionContent:
+          'به یاد داشته باشید که نرم‌افزار آنتی‌ویروس خود را هر چه بیشتر به‌روز کنید، زیرا ویروس‌های جدید همیشه در حال ایجاد هستند.'
+      },
+      {
+        englishContent:
+          'Note: Originally, all computer enthusiasts and skilled programmers were known as hackers, but during the 1990s, the term hacker became synonymous with cracker - a person who uses technology for criminal aims.',
+        persionContent:
+          'توجه: در ابتدا، همه علاقه‌مندان به کامپیوتر و برنامه‌نویسان ماهر به عنوان هکر شناخته می‌شدند، اما در دهه 1990، اصطلاح هکر مترادف با کرکر (حرز شکن) شد - شخصی که از فناوری برای اهداف مجرمانه استفاده می‌کند.'
+      },
+      {
+        englishContent:
+          'Nowadays, people often use the word hacker to mean both things.',
+        persionContent:
+          'امروزه مردم اغلب از کلمه هکر برای هر دو معنی استفاده می‌کنند.'
+      },
+      {
+        englishContent:
+          'In the computer industry, hackers are known as white hats and crackers are called black hats or darkside hackers.',
+        persionContent:
+          'در صنعت کامپیوتر، هکرها به عنوان کلاه سفید و کرکرها به عنوان کلاه سیاه یا هکرهای طرف تاریک شناخته می‌شوند.'
+      }
+    ]
+  },
+  {
+    lessonNumber: 20,
+    lessonTitleEnglish: 'Computer Graphics',
+    lessonTitlePersion: 'گرافیک کامپیوتری',
+    detail: [
+      {
+        englishContent:
+          'Computer graphics are pictures and drawings produced by computer.',
+        persionContent:
+          'گرافیک کامپیوتری تصاویری و نقاشی‌هایی هستند که توسط کامپیوتر تولید می‌شوند.'
+      },
+      {
+        englishContent:
+          'There are two main categories: Raster graphics, or bitmaps, are stored as a collection of pixels. The sharpness of an image depends on the density of pixels, or resolution.',
+        persionContent:
+          'در این رابطه، دو دسته اصلی وجود دارد: گرافیک رستر یا نگاشت بیتی که به عنوان مجموعه‌ای از پیکسل‌ها ذخیره می‌شود. وضوح تصویر به چگالی پیکسل‌ها یا وضوح بستگی دارد.'
+      },
+      {
+        englishContent:
+          'For example, text or pictures that are scaled up - that is, made bigger – may show jagged edges.',
+        persionContent:
+          'به عنوان مثال، متن یا تصاویری که بزرگ‌تر شده‌اند ممکن است لبه‌های ناهموار را نشان دهند.'
+      },
+      {
+        englishContent:
+          'Paint and photo-editing programs like Adobe Photoshop focus on the manipulation of bitmaps.',
+        persionContent:
+          'برنامه‌های ویرایش عکس مانند Adobe Photoshop و Paint بر روی دستکاری نگاشت‌های بیتی تمرکز دارند.'
+      },
+      {
+        englishContent: 'Popular raster formats are JPEG, GIF and TIFF.',
+        persionContent:
+          'فرمت‌های رایج برای گرافیک رستر عبارتند از: JPEG، GIF و TIFF.'
+      },
+      {
+        englishContent:
+          'Vector graphics represent images through the use of geometric objects, such as lines, curves and polygons, based on mathematical equations.',
+        persionContent:
+          'گرافیک برداری تصاویر را از طریق استفاده از اشیاء هندسی، مانند خطوط، منحنی‌ها و چندضلعی‌ها، بر اساس معادلات ریاضی نمایش می‌دهد.'
+      },
+      {
+        englishContent: 'They can be changed or scaled without losing quality.',
+        persionContent:
+          'این تصاویر می‌توانند بدون از دست دادن کیفیت تغییر یا بزرگ شوند.'
+      },
+      {
+        englishContent:
+          'Vector data can be handled by drawing programs like Adobe Illustrator, Corel Draw or Macromedia Freehand.',
+        persionContent:
+          'داده‌های برداری می‌توانند توسط برنامه‌های طراحی مانند Adobe Illustrator، Corel Draw یا Macromedia Freehand مدیریت شوند.'
+      },
+      {
+        englishContent:
+          'EPS is the most popular file format for exchanging vector drawings.',
+        persionContent:
+          'EPS متداول‌ترین فرمت فایل برای تبادل نقاشی‌های برداری است.'
+      },
+      {
+        englishContent:
+          'Bitmap graphics are composed of pixels, each of which contains specific colour information.',
+        persionContent:
+          'گرافیک بیتی از پیکسل‌ها تشکیل شده است که هر کدام حاوی اطلاعات رنگ خاصی هستند.'
+      },
+      {
+        englishContent:
+          'Vector graphics consist of points, lines and curves which, when combined, can form complex objects.',
+        persionContent:
+          'گرافیک برداری شامل نقاط، خطوط و منحنی‌ها است که در صورت ترکیب، می‌توانند اشیاء پیچیده‌ای را تشکیل دهند.'
+      },
+      {
+        englishContent:
+          'Almost all computer users use some form of graphics. Home users and professional artists use image-editing programs to manipulate images.',
+        persionContent:
+          'تقریباً همه کاربران کامپیوتر از نوعی گرافیک استفاده می‌کنند. کاربران خانگی و هنرمندان حرفه‌ای از برنامه‌های ویرایش تصویر برای دستکاری تصاویر استفاده می‌کنند.'
+      },
+      {
+        englishContent:
+          'For example, you can add filters (special effects) to your favourite photos, or you can composite images.',
+        persionContent:
+          'به عنوان مثال، می‌توانید افکت‌های ویژه (فیلترها) را به عکس‌های مورد علاقه‌تان اضافه کنید یا می‌توانید تصاویر را ترکیب کنید.'
+      },
+      {
+        englishContent:
+          'Compositing is combining parts of different images to create a single image.',
+        persionContent:
+          'ترکیب به معنای ترکیب بخش‌هایی از تصاویر مختلف برای ایجاد یک تصویر واحد است.'
+      },
+      {
+        englishContent:
+          'Graphic artists and designers use drawing programs to create freehand drawings and illustrations for books or for the Web.',
+        persionContent:
+          'هنرمندان و طراحان گرافیک از برنامه‌های طراحی برای ایجاد نقاشی‌های آزاد و تصاویر برای کتاب‌ها یا وب استفاده می‌کنند.'
+      },
+      {
+        englishContent:
+          'CAD is also used in the aerospace, architecture and industrial sectors to design everything from aeroplanes and buildings to consumer products.',
+        persionContent:
+          'CAD همچنین در بخش‌های هوافضا، معماری و صنعت برای طراحی همه چیز از هواپیماها و ساختمان‌ها تا محصولات مصرفی استفاده می‌شود.'
+      },
+      {
+        englishContent:
+          'Designers start a project by making a wireframe, a representation showing the outlines of all edges in a transparent drawing.',
+        persionContent:
+          'طراحان پروژه را با ساخت یک چارچوب شروع می‌کنند، که نمایشی از خطوط کلی لبه‌ها در یک طرح شفاف است.'
+      },
+      {
+        englishContent:
+          'They then specify and fill the surfaces to give the appearance of a 3-D solid object with volume. This is known as solid modelling.',
+        persionContent:
+          'سپس سطوح را مشخص و پر می‌کنند تا ظاهری از یک شیء سه‌بعدی جامد با حجم به دست آورند. این فرآیند به عنوان مدل‌سازی جامد شناخته می‌شود.'
+      },
+      {
+        englishContent:
+          "Next, they add paint, colour and filters to achieve the desired 'look and feel': this is called texturing the object. Finally, they render the object to make it look real.",
+        persionContent:
+          "سپس رنگ، بافت و فیلترها را اضافه می‌کنند تا 'ظاهر و احساس' مورد نظر را به دست آورند: که به آن بافت‌زنی شیء می‌گویند. در نهایت، آنها شیء را رندر می‌کنند تا به نظر واقعی بیاید."
+      },
+      {
+        englishContent:
+          'Rendering includes lighting and shading as well as effects that simulate shadows and reflections.',
+        persionContent:
+          'رندر شامل نورپردازی و سایه‌زنی و همچنین اثراتی است که سایه‌ها و بازتاب‌ها را شبیه‌سازی می‌کنند.'
+      },
+      {
+        englishContent: 'A wireframe model of a teapot.',
+        persionContent: 'مدل چارچوبی از یک قوری.'
+      },
+      {
+        englishContent: 'Smooth shading – part of the rendering process.',
+        persionContent: 'سایه‌زنی هموار – بخشی از فرآیند رندر.'
+      },
+      {
+        englishContent:
+          'Computer art, or digital art, is used in adverts and TV programmes.',
+        persionContent:
+          'هنر کامپیوتری یا هنر دیجیتال در تبلیغات و برنامه‌های تلویزیونی استفاده می‌شود.'
+      },
+      {
+        englishContent:
+          'Artists and scientists use special graphic applets to create amazing fractals.',
+        persionContent:
+          'هنرمندان و دانشمندان از اپلت‌های گرافیکی ویژه برای ایجاد فراکتال‌های شگفت‌انگیز استفاده می‌کنند.'
+      },
+      {
+        englishContent:
+          'Fractals are geometrical patterns that are repeated at small scales to generate irregular shapes, some of which describe objects from nature.',
+        persionContent:
+          'فراکتال‌ها الگوهای هندسی هستند که در مقیاس‌های کوچک تکرار می‌شوند تا اشکال نامنظم تولید کنند، که برخی از آنها اشیاء طبیعت را توصیف می‌کنند.'
+      },
+      {
+        englishContent:
+          'Government agencies use GIS (Geographic Information Systems) to understand geographic data and then plan the use of land or predict natural disasters.',
+        persionContent:
+          'سازمان‌های دولتی از GIS (سیستم‌های اطلاعات جغرافیایی) برای درک داده‌های جغرافیایی و سپس برنامه‌ریزی استفاده از زمین یا پیش‌بینی بلایای طبیعی استفاده می‌کنند.'
+      },
+      {
+        englishContent: 'Cartographers use GIS to make detailed maps.',
+        persionContent:
+          'نگاران نقشه از GIS برای تهیه نقشه‌های دقیق استفاده می‌کنند.'
+      },
+      {
+        englishContent:
+          'Animators use computer animation software to create animated cartoons or add effects in movies and video games.',
+        persionContent:
+          'انیماتورها از نرم‌افزار انیمیشن کامپیوتری برای ساخت کارتون‌های متحرک یا افزودن جلوه‌ها در فیلم‌ها و بازی‌های ویدیویی استفاده می‌کنند.'
       }
     ]
   }

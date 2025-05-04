@@ -18,7 +18,7 @@ function ComTranslate({ englishContent, persionContent }: detail) {
 
   return (  
     <div>  
-      <p>  
+      <p className="text-gray-400">  
         <FontAwesomeIcon  
           icon={faGlobe}  
           onClick={click}  
@@ -31,7 +31,7 @@ function ComTranslate({ englishContent, persionContent }: detail) {
         />  
         <span className="cursor-pointer" onClick={click}>{englishContent}</span>
       </p>  
-      <div className={`persian-content transition-height duration-500 ease-in-out ${hidden ? 'max-h-full opacity-100' : 'max-h-0 opacity-0'}`}>  
+      <div className={`text-gray-400 persian-content transition-height duration-500 ease-in-out ${hidden ? 'max-h-full opacity-100' : 'max-h-0 opacity-0'}`}>  
         {hidden && <p>{persionContent}</p>}  
       </div>  
     </div>  
