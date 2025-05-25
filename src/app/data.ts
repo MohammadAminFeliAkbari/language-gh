@@ -2592,5 +2592,352 @@ export const data = [
           'انیماتورها از نرم‌افزار انیمیشن کامپیوتری برای ساخت کارتون‌های متحرک یا افزودن جلوه‌ها در فیلم‌ها و بازی‌های ویدیویی استفاده می‌کنند.'
       }
     ]
+  },
+  {
+    lessonNumber: 25,
+    lessonTitleEnglish: 'The java language',
+    lessonTitlePersion: 'زبان جاوا',
+    detail: [
+      {
+        englishContent:
+          'Java is a programming language developed by Sun Microsystems, specially designed to run on the Web.',
+        persionContent:
+          'جاوا زبان برنامه‌نویسی است که توسط Sun Microsystems توسعه یافته و به طور ویژه برای اجرا در وب طراحی شده است.'
+      },
+      {
+        englishContent:
+          'Java programs (called applets) let you watch animated characters and moving text, play music, and interact with information on the screen (for example, control animations and select options).',
+        persionContent:
+          'برنامه‌های جاوا (که اپلت نامیده می‌شوند) به شما امکان تماشای شخصیت‌های متحرک و متن‌های متحرک، پخش موسیقی و تعامل با اطلاعات روی صفحه را می‌دهند (به عنوان مثال، کنترل پویانمایی‌ها و انتخاب گزینه‌ها).'
+      },
+      {
+        englishContent: 'Characteristics of the Java language',
+        persionContent: 'ویژگی‌های زبان جاوا'
+      },
+      {
+        englishContent:
+          'Java is an object-oriented language, similar to C++, but more dynamic and simplified to eliminate possible programming errors.',
+        persionContent:
+          'زبان جاوا شی‌گرا است، مشابه ++C، اما پویاتر و ساده‌تر برای رفع خطاهای احتمالی برنامه‌نویسی.'
+      },
+      {
+        englishContent:
+          'A Java program is both compiled and interpreted (see Unit 24).',
+        persionContent:
+          'برنامه جاوا هم کامپایل می‌شود و هم تفسیر (به واحد ۲۴ مراجعه کنید).'
+      },
+      {
+        englishContent:
+          'First, the source code (a file with a .java extension) is compiled and converted into a format called bytecode (a file with a .class extension), which can then be executed by a Java interpreter (see Fig. 1).',
+        persionContent:
+          'ابتدا کد منبع (فایلی با پسوند .java) کامپایل شده و به قالبی به نام بایت‌کد (فایلی با پسوند .class) تبدیل می‌شود که بعداً می‌تواند توسط یک مفسر جاوا اجرا شود (شکل ۱ را ببینید).'
+      },
+      {
+        englishContent:
+          'Compiled Java code can run on most computers because there are Java interpreters, known as Java Virtual Machines, for most operating systems.',
+        persionContent:
+          'کد کامپایل‌شده جاوا می‌تواند روی اکثر رایانه‌ها اجرا شود زیرا ماشین‌های مجازی جاوا، به عنوان مفسرهای جاوا، برای بیشتر سیستم‌عامل‌ها وجود دارند.'
+      },
+      {
+        englishContent:
+          'Java is multi-threaded, meaning a Java program can have multiple threads (parts) that is, many different things processing independently and continuously.',
+        persionContent:
+          'جاوا چندنخی است، یعنی یک برنامه جاوا می‌تواند چند بخش (نخ) داشته باشد که بسیاری از بخش‌ها به طور مستقل و پیوسته پردازش می‌شوند.'
+      },
+      {
+        englishContent:
+          'This enables the program to make the best use of available CPU power.',
+        persionContent:
+          'این قابلیت چندنخی برنامه را قادر می‌سازد تا از توان پردازشی CPU موجود بهترین استفاده را ببرد.'
+      },
+      {
+        englishContent: 'Why is Java popular?',
+        persionContent: 'چرا جاوا محبوب است؟'
+      },
+      {
+        englishContent:
+          'Most programmers like Java because it allows them to write applets which make web pages more interactive and attractive.',
+        persionContent:
+          'اکثر برنامه‌نویسان جاوا را دوست دارند زیرا به آن‌ها اجازه می‌دهد برنامه‌های کوچکی (اپلت) بنویسند که صفحات وب را تعاملی‌تر و جذاب‌تر می‌کنند.'
+      },
+      {
+        englishContent:
+          'They can create graphical objects (for example, bar charts and diagrams) and new controls (for example, check boxes and push buttons with special properties).',
+        persionContent:
+          'آن‌ها می‌توانند اشیاء گرافیکی (مثلاً نمودارهای میله‌ای و دیاگرام‌ها) و کنترل‌های جدید (مثلاً چک‌باکس‌ها و دکمه‌های فشاری با ویژگی‌های خاص) ایجاد کنند.'
+      },
+      {
+        englishContent:
+          'A web page that uses Java can have sounds that play in real time, music that plays in the background, cartoon-style animations, real-time video and interactive games.',
+        persionContent:
+          'صفحه وبی که از جاوا استفاده می‌کند می‌تواند صداهایی که در زمان واقعی پخش می‌شوند، موسیقی پس‌زمینه، انیمیشن‌های کارتونی، ویدیوهای زنده و بازی‌های تعاملی داشته باشد.'
+      },
+      {
+        englishContent:
+          'The Java Micro Edition platform (Java ME) is used in mobile devices.',
+        persionContent:
+          'بستر Java Micro Edition (Java ME) در دستگاه‌های تلفن همراه استفاده می‌شود.'
+      },
+      {
+        englishContent:
+          'It provides flexible tools to create applications that run on mobile phones, PDAs, TV set-top boxes and printers. Nowadays, most phones are configured to use Java games.',
+        persionContent:
+          'Java ME ابزارهای انعطاف‌پذیری برای ایجاد برنامه‌های کاربردی که روی تلفن‌های همراه، PDAها، جعبه‌های تنظیم تلویزیون و چاپگرها اجرا می‌شوند را فراهم می‌کند. امروزه اکثر گوشی‌ها برای استفاده از بازی‌های جاوا پیکربندی شده‌اند.'
+      },
+      {
+        englishContent: 'Alternatives to Java',
+        persionContent: 'جایگزین‌های جاوا'
+      },
+      {
+        englishContent:
+          "One alternative to Java is Microsoft's C#, pronounced 'C sharp' – a .NET language based on C++ with elements from Visual Basic and Java.",
+        persionContent:
+          'یکی از جایگزین‌های جاوا، #C مایکروسافت است که «سی‌شارپ» تلفظ می‌شود. یک زبان .NET مبتنی بر ++C با عناصری از ویژوال بیسیک و جاوا می‌باشد.'
+      },
+      {
+        englishContent:
+          'There are no substantial differences between C# and Java. When software developers do measurements on pieces of code, sometimes Java is faster, sometimes C# is.',
+        persionContent:
+          'تفاوت چشمگیری بین سی‌شارپ و جاوا وجود ندارد. وقتی توسعه‌دهندگان نرم‌افزار قطعات کد را اندازه‌گیری می‌کنند، گاهی جاوا سریع‌تر است و گاهی سی‌شارپ.'
+      },
+      {
+        englishContent:
+          'Another competitor is Adobe Flash technology, which supports graphics, a scripting language called ActionScript, and the streaming of audio and video.',
+        persionContent:
+          'یکی دیگر از رقیب‌های جاوا، فناوری Adobe Flash است که از گرافیک، زبان اسکریپت‌نویسی به نام ActionScript و پخش جریانی صدا و ویدیو پشتیبانی می‌کند.'
+      },
+      {
+        englishContent:
+          'Flash is used to create animation and advertisements, to integrate video into web pages, and to develop rich internet applications such as portals.',
+        persionContent:
+          'فلش برای ایجاد انیمیشن و تبلیغات، ادغام ویدیو در صفحات وب و توسعه برنامه‌های اینترنتی غنی مانند پورتال‌ها استفاده می‌شود.'
+      },
+      {
+        englishContent:
+          'Flash files, traditionally called flash movies, have a .swf file extension.',
+        persionContent:
+          'فایل‌های فلش که به طور سنتی فیلم‌های فلش نامیده می‌شوند، دارای پسوند فایل .swf هستند.'
+      },
+      {
+        englishContent:
+          'They may be an object on a web page or be played in the stand-alone Flash Player.',
+        persionContent:
+          'آن‌ها ممکن است یک شیء در یک صفحه وب باشند یا در فلش پلیر مستقل پخش شوند.'
+      }
+    ]
+  },
+  {
+    lessonNumber: 26,
+    lessonTitleEnglish: 'IT professinals',
+    lessonTitlePersion: 'متخصصان فناوری اطلاعات',
+    detail: [
+      {
+        englishContent:
+          '1. A hardware engineer designs and develops IT devices.',
+        persionContent:
+          '۱. مهندس سخت‌افزار دستگاه‌های IT را طراحی و توسعه می‌دهد.'
+      },
+      {
+        englishContent: '2. A software engineer writes computer programs.',
+        persionContent: '۲. مهندس نرم‌افزار برنامه‌های کامپیوتر را می‌نویسد.'
+      },
+      {
+        englishContent:
+          '3. A blog administrator edits and deletes posts made by contributors to a blog.',
+        persionContent:
+          '۳. مدیر وبلاگ پست‌هایی که توسط مشارکت‌کنندگان ارسال شده‌اند را ویرایش و حذف می‌کند.'
+      },
+      {
+        englishContent:
+          '4. A DTP operator uses page layout software to prepare electronic files for publication.',
+        persionContent:
+          '۴. اپراتور نشر رومیزی از نرم‌افزار صفحه‌آرایی برای آماده‌سازی فایل‌های الکترونیکی جهت انتشار استفاده می‌کند.'
+      },
+      {
+        englishContent:
+          '5. A network administrator manages the hardware and software that comprise a network.',
+        persionContent:
+          '۵. مدیر شبکه سخت‌افزار و نرم‌افزاری که یک شبکه را تشکیل می‌دهند مدیریت می‌کند.'
+      },
+      {
+        englishContent: '6. A webmaster designs and maintains websites.',
+        persionContent:
+          '۶. مسئول سایت وب، وب‌سایت‌ها را طراحی و نگهداری می‌کند.'
+      },
+      {
+        englishContent:
+          '7. A computer security specialist works with companies to build secure computer systems.',
+        persionContent:
+          '۷. متخصص امنیت کامپیوتر با شرکت‌ها همکاری می‌کند تا سیستم‌های کامپیوتری ایمن بسازد.'
+      },
+      {
+        englishContent:
+          '8. A help desk technician helps end-users with their computer problems in person, by email or over the phone.',
+        persionContent:
+          '۸. تکنسین مرکز کمک به کاربران نهایی برای رفع مشکلات کامپیوتری‌شان به‌صورت حضوری، ایمیلی یا تلفنی کمک می‌کند.'
+      }
+    ]
+  },
+  {
+    lessonNumber: 27,
+    lessonTitleEnglish: 'Channels of communication',
+    lessonTitlePersion: 'گذرگاه/مجراهای ارتباطی',
+    detail: [
+      {
+        englishContent: 'What are telecommunications?',
+        persionContent: 'ارتباطات راه دور چیست؟'
+      },
+      {
+        englishContent:
+          'Telecommunications refers to the transmission of signals over a distance for the purpose of communication.',
+        persionContent:
+          'ارتباطات از راه دور به انتقال سیگنال‌ها بر روی فواصل طولانی به‌منظور برقراری ارتباط اشاره دارد.'
+      },
+      {
+        englishContent:
+          'Information is transmitted by devices such as the telephone, radio, television, satellite, or computer networks.',
+        persionContent:
+          'اطلاعات توسط دستگاه‌هایی مانند تلفن، رادیو، تلویزیون، ماهواره یا شبکه‌های رایانه‌ای منتقل می‌شوند.'
+      },
+      {
+        englishContent:
+          'Examples could be two people speaking on their mobile phone, a sales department sending a fax to a client, or even someone reading the teletext pages on TV.',
+        persionContent:
+          'به‌عنوان مثال، دو نفر که با تلفن همراه خود صحبت می‌کنند، بخش فروش که فاکسی برای یک مشتری می‌فرستد یا حتی شخصی که صفحات تله‌تکست تلویزیون را می‌خواند.'
+      },
+      {
+        englishContent:
+          'But in the modern world, telecommunications mainly means transferring information across the Internet, via modem, phone lines or wireless networks.',
+        persionContent:
+          'اما در دنیای مدرن، ارتباطات از راه دور عمدتاً به معنای انتقال اطلاعات از طریق اینترنت، مودم، خطوط تلفن یا شبکه‌های بی‌سیم است.'
+      },
+      {
+        englishContent:
+          'Because of telecommunications, people can now work at home and communicate with their office by computer and telephone. This is called teleworking.',
+        persionContent:
+          'به دلیل وجود ارتباطات از راه دور، افراد اکنون می‌توانند در خانه کار کنند و از طریق رایانه و تلفن با دفتر خود ارتباط برقرار کنند. این روش را دورکاری می‌نامند.'
+      },
+      {
+        englishContent:
+          'It has been predicted that about one-third of all work could eventually be performed outside the workplace.',
+        persionContent:
+          'پیش‌بینی شده است که حدود یک‌سوم از کل کارها نهایتاً می‌تواند خارج از محل کار انجام شود.'
+      },
+      {
+        englishContent:
+          'In call centers, assistance or support is given to customers using the telephone, email or online chats.',
+        persionContent:
+          'در مراکز تماس، با استفاده از تلفن، ایمیل یا گفت‌وگوهای آنلاین به مشتریان کمک یا پشتیبانی ارائه می‌شود.'
+      },
+      {
+        englishContent:
+          'They are also used for telemarketing, the process of selling goods and services over the phone.',
+        persionContent:
+          'این مراکز همچنین برای بازاریابی از راه دور، یعنی فرآیند فروش کالا و خدمات از طریق تلفن، به کار می‌روند.'
+      },
+      {
+        englishContent: 'Digital radio and TV',
+        persionContent: 'رادیو و تلویزیون دیجیتال'
+      },
+      {
+        englishContent:
+          'In recent years, TV and radio broadcasting has been revolutionized by developments in satellite and digital transmission.',
+        persionContent:
+          'در سال‌های اخیر، با توسعه انتقال ماهواره‌ای و دیجیتال، پخش برنامه‌های تلویزیون و رادیو متحول شده است.'
+      },
+      {
+        englishContent:
+          'Digital TV is a way of transmitting pictures by means of digital signals, in contrast to the analogue signals used by traditional TV.',
+        persionContent:
+          'تلویزیون دیجیتال روشی برای انتقال تصاویر از طریق سیگنال‌های دیجیتال است، برخلاف تلویزیون‌های سنتی که از سیگنال‌های آنالوگ استفاده می‌کنند.'
+      },
+      {
+        englishContent:
+          'Digital TV offers interactive services and pay multimedia - that is, it can transmit movies and shows to TV sets or PCs on a pay-per-view basis.',
+        persionContent:
+          'تلویزیون دیجیتال خدمات تعاملی و چندرسانه‌ای پولی ارائه می‌دهد - یعنی می‌تواند فیلم‌ها و برنامه‌ها را به‌صورت پرداخت به ازای هر بار مشاهده به تلویزیون یا رایانه‌های شخصی ارسال کند.'
+      },
+      {
+        englishContent:
+          'It is also widescreen, meaning programmes are broadcast in a native 16:9 format instead of the old 4:3 format.',
+        persionContent:
+          'تلویزیون دیجیتال همچنین به‌صورت نمایش عریض است، به این معنی که برنامه‌ها در قالب بومی 16:9 پخش می‌شوند، برخلاف قالب قدیمی 4:3.'
+      },
+      {
+        englishContent:
+          'Digital TV provides a better quality of picture and sound and allows broadcasters to deliver more channels.',
+        persionContent:
+          'تلویزیون دیجیتال کیفیت بهتری از تصویر و صدا ارائه می‌دهد و به پخش‌کنندگان امکان می‌دهد کانال‌های بیشتری را ارائه کنند.'
+      },
+      {
+        englishContent:
+          'Digital Terrestrial TV is received via a set-top box, a device that decodes the signal received through the aerial.',
+        persionContent:
+          'تلویزیون دیجیتال زمینی از طریق یک دستگاه گیرنده دریافت می‌شود، دستگاهی که سیگنال دریافت‌شده از طریق آنتن را رمزگشایی می‌کند.'
+      },
+      {
+        englishContent:
+          'New technologies are being devised to allow you to watch TV on your mobile. For example, DMB (Digital Multimedia Broadcasting) and DVB-H (Digital Video Broadcast-Handheld) can send multimedia (radio, TV and data) to mobile devices.',
+        persionContent:
+          'فناوری‌های جدیدی در حال طراحی هستند تا امکان تماشای تلویزیون از طریق تلفن همراه را فراهم کنند. به‌عنوان مثال، DMB (پخش چندرسانه‌ای دیجیتال) و DVB-H (پخش ویدیوی دیجیتال برای دستگاه‌های دستی) می‌توانند محتوای چندرسانه‌ای (رادیو، تلویزیون و داده‌ها) را به دستگاه‌های تلفن همراه ارسال کنند.'
+      },
+      {
+        englishContent: 'set-top box (STB) // "sat on top" of the TV //',
+        persionContent:
+          'دستگاه گیرنده // جعبه‌ای که روی تلویزیون قرار داده می‌شود؛ Box TV'
+      },
+      {
+        englishContent:
+          'Audio programs (music, news, sports, etc.) are also transmitted in a digital radio format called DAB (Digital Audio Broadcasting).',
+        persionContent:
+          'برنامه‌های صوتی (موسیقی، اخبار، ورزش و غیره) نیز در قالب رادیویی دیجیتال به نام DAB (پخش صوتی دیجیتال) منتقل می‌شوند.'
+      },
+      {
+        englishContent: 'Mobile communications',
+        persionContent: 'ارتباطات سیار'
+      },
+      {
+        englishContent:
+          'Thanks to wireless connectivity, mobile phones and BlackBerrys now let you check your email, browse the Web and connect with home or company intranets, all without wires.',
+        persionContent:
+          'به شکرانه اتصال بی‌سیم، اکنون تلفن‌های همراه و گوشی‌های بلک‌بری امکان بررسی ایمیل، مرور وب و اتصال به شبکه خصوصی منزل یا شرکت را تماماً بدون سیم فراهم نموده‌اند.'
+      },
+      {
+        englishContent:
+          'The use of GPS in cars and PDAs is widespread, so you can easily navigate in a foreign city or find the nearest petrol station.',
+        persionContent:
+          'استفاده از GPS در خودروها و دستگاه‌های PDA بسیار گسترده شده است، بنابراین به‌راحتی می‌توانید در یک شهر خارجی حرکت کنید یا نزدیک‌ترین پمپ‌بنزین را پیدا کنید.'
+      },
+      {
+        englishContent:
+          'In the next few years, GPS chips will be incorporated into most mobile phones.',
+        persionContent:
+          'در چند سال آینده، تراشه‌های GPS در اکثر تلفن‌های همراه گنجانده خواهند شد.'
+      },
+      {
+        englishContent:
+          'Another trend is wearable computers. Can you imagine wearing a PC on your belt and getting email on your sunglasses?',
+        persionContent:
+          'یکی دیگر از روندها رایانه‌های پوشیدنی هستند. آیا می‌توانید تصور کنید که یک رایانه شخصی را روی کمربند خود بپوشید و ایمیل‌ها را روی شیشه عینک آفتابی خود دریافت کنید؟'
+      },
+      {
+        englishContent:
+          'Some devices are equipped with a wireless modem, a keypad and a small screen; others are activated by voice.',
+        persionContent:
+          'برخی از این دستگاه‌ها به مودم بی‌سیم، صفحه‌کلید و نمایشگر کوچک مجهز هستند؛ برخی دیگر با صدا فعال می‌شوند.'
+      },
+      {
+        englishContent:
+          "The users of wearable technology are sometimes even called 'cyborgs'.",
+        persionContent:
+          "به کاربران فناوری پوشیدنی گاهی حتی 'سایبورگ' گفته می‌شود."
+      },
+      {
+        englishContent:
+          'The term was invented by Manfred Clynes and Nathan Kline in 1960 to describe cybernetic organisms - beings that are part robot, part human.',
+        persionContent:
+          'این اصطلاح توسط مانفرد کلاینز و ناتان کلاین در سال 1960 برای توصیف ارگانیسم‌های سایبرنتیک - موجوداتی که بخشی انسان و بخشی ربات هستند - ابداع شد.'
+      }
+    ]
   }
 ]
