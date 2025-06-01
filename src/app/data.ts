@@ -2939,5 +2939,444 @@ export const data = [
           'این اصطلاح توسط مانفرد کلاینز و ناتان کلاین در سال 1960 برای توصیف ارگانیسم‌های سایبرنتیک - موجوداتی که بخشی انسان و بخشی ربات هستند - ابداع شد.'
       }
     ]
+  },
+  {
+    lessonNumber: 28,
+    lessonTitleEnglish: 'Networking frequently asked questions (FAQs)',
+    lessonTitlePersion: 'سوالات متداول شبکه',
+    detail: [
+      {
+        englishContent: 'How many types of network are there?',
+        persionContent: 'چند نوع شبکه وجود دارد؟'
+      },
+      {
+        englishContent:
+          'Networks are classified according to different criteria:',
+        persionContent: 'شبکه‌ها بر اساس شاخص‌های مختلف طبقه‌بندی می‌شوند:'
+      },
+      {
+        englishContent: 'Geographical area:',
+        persionContent: 'منطقه جغرافیایی:'
+      },
+      {
+        englishContent:
+          'PANs (Personal Area Networks) typically include a laptop, a mobile phone and a PDA;',
+        persionContent:
+          'PANها (شبکه‌های شخصی) معمولاً شامل یک لپ‌تاپ، یک تلفن همراه و یک PDA هستند.'
+      },
+      {
+        englishContent:
+          'LANs cover a building; MANs (Metropolitan Area Networks) cover a campus or a city;',
+        persionContent:
+          'LANها یک ساختمان را پوشش می‌دهند؛ MANها (شبکه‌های منطقه شهری) یک محوطه دانشگاهی یا یک شهر را پوشش می‌دهند.'
+      },
+      {
+        englishContent:
+          'WANs (Wide Area Networks) cover a country or a continent.',
+        persionContent:
+          'WANها (شبکه‌های گسترده) یک کشور یا یک قاره را پوشش می‌دهند.'
+      },
+      {
+        englishContent: 'Architecture:',
+        persionContent: 'معماری:'
+      },
+      {
+        englishContent:
+          'In a client-server network, a computer acts as a server and stores and distributes information to the other nodes, or clients.',
+        persionContent:
+          'در شبکه‌ای با ساختار سرویس‌گیرنده-سرویس‌دهنده، یک کامپیوتر به عنوان سرور عمل می‌کند و اطلاعات را ذخیره و بین سایر گره‌ها یا کلاینت‌ها توزیع می‌کند.'
+      },
+      {
+        englishContent:
+          'In a peer-to-peer network, all the computers have the same capabilities - that is, share files and peripherals without requiring a separate server computer.',
+        persionContent:
+          'در یک شبکه نظیر به نظیر، همه رایانه‌ها قابلیت‌های یکسانی دارند – یعنی فایل‌ها و لوازم جانبی را بدون نیاز به سرور جداگانه به اشتراک می‌گذارند.'
+      },
+      {
+        englishContent: 'Layout or Topology:',
+        persionContent: 'چیدمان یا توپولوژی:'
+      },
+      {
+        englishContent:
+          'In a bus network, all the computers are connected to a main cable, or bus.',
+        persionContent:
+          'در شبکه باس (گذرگاهی)، تمام کامپیوترها به یک کابل اصلی یا گذرگاه متصل هستند.'
+      },
+      {
+        englishContent:
+          'In a star network, all data flows through a central hub, a common connection point for the devices in the network.',
+        persionContent:
+          'در شبکه ستاره‌ای، تمام داده‌ها از طریق یک هاب مرکزی، به‌عنوان نقطه اتصال مشترک برای دستگاه‌های موجود در شبکه، جریان می‌یابد.'
+      },
+      {
+        englishContent:
+          'In a ring network, all devices are connected to one another in a continuous loop, or ring.',
+        persionContent:
+          'در شبکه حلقه‌ای، همه دستگاه‌ها در یک حلقه پیوسته به یکدیگر متصل می‌شوند.'
+      },
+      {
+        englishContent: 'Network protocol:',
+        persionContent: 'پروتکل شبکه:'
+      },
+      {
+        englishContent:
+          'This is the language, or set of rules, that computers use to communicate with each other.',
+        persionContent:
+          'پروتکل شبکه زبان یا مجموعه قوانینی است که رایانه‌ها برای برقراری ارتباط با یکدیگر از آن استفاده می‌کنند.'
+      },
+      {
+        englishContent:
+          'Networks use different protocols. For instance, the Internet uses TCP/IP.',
+        persionContent:
+          'شبکه‌ها از پروتکل‌های مختلفی استفاده می‌کنند. برای مثال، اینترنت از TCP/IP استفاده می‌کند.'
+      },
+      {
+        englishContent: 'How do I install a wired modem router?',
+        persionContent: 'چگونه یک مودم روتر سیمی نصب کنم؟'
+      },
+      {
+        englishContent:
+          'A modem router is a device that connects your computer or home LAN to the Internet.',
+        persionContent:
+          'روتر مودم دستگاهی است که کامپیوتر یا شبکه محلی منزل شما را به اینترنت متصل می‌کند.'
+      },
+      {
+        englishContent:
+          'Plug one end of the phone cord directly into a phone jack, and the other end into the ADSL port on the router.',
+        persionContent:
+          'یک سر سیم تلفن را مستقیماً به پریز تلفن و سر دیگر را به پورت ADSL روتر وصل کنید.'
+      },
+      {
+        englishContent:
+          "Plug one end of the Ethernet cable into your computer's network port and the other end into an Ethernet port on the router.",
+        persionContent:
+          'یک سر کابل اترنت را به پورت شبکه کامپیوتر خود و سر دیگر آن را به پورت اترنت روتر وصل کنید.'
+      },
+      {
+        englishContent:
+          "Turn on your computer. To set up, or configure, the router, you'll need to input some parameters, for example your ISP's name and phone number.",
+        persionContent:
+          'کامپیوتر خود را روشن کنید. برای راه‌اندازی یا پیکربندی روتر، باید برخی از پارامترها مثل نام و شماره تلفن ISP خود را وارد کنید.'
+      },
+      {
+        englishContent:
+          'NOTE: A router has various Ethernet ports, so you can connect various PCs to the router via Ethernet cables.',
+        persionContent:
+          'توجه: روتر دارای پورت‌های اترنت مختلفی است، بنابراین می‌توانید رایانه‌های مختلفی را از طریق کابل‌های اترنت به آن متصل کنید.'
+      },
+      {
+        englishContent:
+          'If you already have a hub or switch connecting a LAN, you only need one cable to connect the hub to the router.',
+        persionContent:
+          'اگر از قبل سوئیچ یا هاب برای اتصال شبکه محلی (LAN) دارید، فقط به یک کابل برای اتصال هاب به روتر نیاز دارید.'
+      },
+      {
+        englishContent: 'How do I log on to the Internet Service Provider?',
+        persionContent: 'چگونه می‌توانم وارد خدمات‌دهنده اینترنتی شوم؟'
+      },
+      {
+        englishContent: 'You need to type in your username and password.',
+        persionContent: 'باید نام کاربری و رمز عبور خود را وارد کنید.'
+      },
+      {
+        englishContent:
+          'Once you are online, you can get email, look for information on the Web, look up IT words in dictionaries, try out new software, and sign up for RSS feeds, newsletters, etc.',
+        persionContent:
+          'هنگامی که آنلاین شدید، می‌توانید ایمیل دریافت کنید، به دنبال اطلاعات در وب بگردید، واژگان فناوری اطلاعات را در فرهنگ لغت جستجو کنید، نرم‌افزار جدید را آزمایش کنید و برای خوراک‌های RSS، خبرنامه‌ها و غیره ثبت‌نام کنید.'
+      },
+      {
+        englishContent:
+          'It is important that you remember to log off after using the Internet.',
+        persionContent:
+          'مهم است که به یاد داشته باشید پس از استفاده از اینترنت، ارتباط را قطع کنید.'
+      },
+      {
+        englishContent:
+          'An open line increases the risk of viruses, and hackers might break into your computer to steal confidential data.',
+        persionContent:
+          'یک خط ارتباطی باز، خطر ابتلا به ویروس‌ها را افزایش می‌دهد و ممکن است هکرها به رایانه شما نفوذ کرده و اطلاعات محرمانه را سرقت کنند.'
+      },
+      {
+        englishContent: 'What is wireless networking?',
+        persionContent: 'شبکه بی‌سیم چیست؟'
+      },
+      {
+        englishContent:
+          'Wired networks are linked by Ethernet cables, phone lines and high-speed fibre optic cables.',
+        persionContent:
+          'شبکه‌های سیمی توسط کابل‌های اترنت، خطوط تلفن و کابل‌های فیبر نوری پرسرعت به هم متصل می‌شوند.'
+      },
+      {
+        englishContent:
+          'Wireless networks, however, use electromagnetic waves, such as radio waves, to transmit data. These are the main types of wireless networks:',
+        persionContent:
+          'اما شبکه‌های بی‌سیم از امواج الکترومغناطیسی مانند امواج رادیویی برای انتقال داده استفاده می‌کنند. انواع اصلی شبکه‌های بی‌سیم عبارت‌اند از:'
+      },
+      {
+        englishContent: 'Satellites - for long distances',
+        persionContent: 'ماهواره‌ها - برای فواصل طولانی'
+      },
+      {
+        englishContent: 'WiMAX - for connecting Wi-Fi hotspots',
+        persionContent: 'WiMAX - برای اتصال نقاط دسترسی Wi-Fi'
+      },
+      {
+        englishContent: 'Wi-Fi - for medium-range distances',
+        persionContent: 'Wi-Fi - برای فواصل متوسط'
+      },
+      {
+        englishContent: 'Bluetooth - for short distances',
+        persionContent: 'بلوتوث - برای فواصل کوتاه'
+      },
+      {
+        englishContent: 'GSM - for mobile phones',
+        persionContent: 'GSM - برای تلفن‌های همراه'
+      },
+      {
+        englishContent: 'What do I need to set up a home wireless LAN?',
+        persionContent:
+          'برای راه‌اندازی شبکه محلی بی‌سیم خانگی به چه چیزهایی نیاز دارم؟'
+      },
+      {
+        englishContent:
+          "You'll need computers equipped with a wireless adapter or wireless card, a wireless access point (a wireless router) and a broadband internet connection.",
+        persionContent:
+          'شما به رایانه‌هایی مجهز به کارت شبکه بی‌سیم، یک نقطه دسترسی بی‌سیم (روتر بی‌سیم) و یک اتصال اینترنت پرسرعت نیاز دارید.'
+      },
+      {
+        englishContent: 'Which is better, a wired or wireless LAN?',
+        persionContent: 'کدام بهتر است، شبکه محلی سیمی یا بی‌سیم؟'
+      },
+      {
+        englishContent:
+          'Wired LANs are more difficult to install, but they are cheaper, faster and more reliable.',
+        persionContent:
+          'نصب شبکه‌های محلی سیمی دشوارتر است، اما ارزان‌تر، سریع‌تر و قابل‌اعتمادتر هستند.'
+      },
+      {
+        englishContent:
+          'Wireless networks let you move, or roam, from one access point to another, but they are less secure and subject to interference.',
+        persionContent:
+          'شبکه‌های بی‌سیم به شما اجازه می‌دهند بین نقاط دسترسی جابجا شوید، اما امنیت کمتری دارند و در معرض اختلال قرار می‌گیرند.'
+      }
+    ]
+  },
+  {
+    lessonNumber: 29,
+    lessonTitleEnglish: 'Video games',
+    lessonTitlePersion: 'بازی های ویدیویی',
+    detail: [
+      {
+        englishContent:
+          'Console games are played on video game consoles such as the Sony PS3 or Microsoft Xbox 360. In the past, these electronic devices were just connected to a standard TV or video monitor; now they can also be connected to the Net, via cables or wirelessly.',
+        persionContent:
+          'بازی‌های کنسولی روی پایانه‌های بازی ویدیویی مانند PS3 سونی یا Xbox 360 مایکروسافت انجام می‌شود. در گذشته، این دستگاه‌های الکترونیکی فقط به یک تلویزیون استاندارد یا مانیتور ویدئویی متصل می‌شدند؛ اکنون می‌توان آن‌ها را از طریق کابل یا بی‌سیم به شبکه متصل کرد.'
+      },
+      {
+        englishContent:
+          'Handheld games are played on portable gaming devices, such as the Sony PSP and the Nintendo DS. You can also play games on some graphing calculators and watches.',
+        persionContent:
+          'بازی‌های دستی بر روی دستگاه‌های بازی قابل‌حمل مانند PSP سونی و DS نینتندو اجرا می‌شود. شما همچنین می‌توانید بازی‌ها را بر روی برخی از ماشین‌حساب‌های نموداری و ساعت‌ها انجام دهید.'
+      },
+      {
+        englishContent:
+          "Don't worry if you don't have a game console. You can still play PC games on a personal computer. The graphics are even more impressive if you have a high-resolution monitor. You can buy games on CDs and DVDs, or download them from the Internet.",
+        persionContent:
+          'اگر کنسول بازی ندارید نگران نباشید. هنوز هم می‌توانید بازی‌های رایانه‌ای را روی رایانه شخصی بازی کنید. اگر یک مانیتور با وضوح بالا داشته باشید، گرافیک حتی چشمگیرتری خواهید داشت. بازی‌ها را می‌توانید روی سی‌دی یا دی‌وی‌دی بخرید یا از اینترنت دانلود کنید.'
+      },
+      {
+        englishContent:
+          'Massively multiplayer online games allow you to play against other users in other parts of the world using the Internet – something unique to electronic gaming. Players connect to a game server hosted by an ISP, a game company, or an individual enthusiast.',
+        persionContent:
+          'بازی‌های آنلاین چندنفره انبوه به شما این امکان را می‌دهد که با استفاده از اینترنت با کاربران دیگر در نقاط مختلف جهان بازی کنید – ویژگی‌ای منحصربه‌فرد برای بازی‌های الکترونیکی. بازیکنان به یک سرور بازی متصل می‌شوند که توسط یک ISP، یک شرکت بازی یا یک فرد علاقه‌مند میزبانی می‌شود.'
+      },
+      {
+        englishContent:
+          'Some mobile phone games are programmed to run natively on the chip of 3G mobile phones. For instance, Snake is installed on many Nokia phones. Many Java-based games are also available via download.',
+        persionContent:
+          'برخی از بازی‌های تلفن همراه به گونه‌ای برنامه‌ریزی شده‌اند که به صورت بومی روی تراشه تلفن‌های همراه 3G اجرا شوند. برای مثال، بازی Snake بر روی بسیاری از گوشی‌های نوکیا نصب شده است. بسیاری از بازی‌های مبتنی بر جاوا نیز از طریق دانلود در دسترس هستند.'
+      },
+      {
+        englishContent:
+          'Arcade games are played on coin-operated machines, typically installed in restaurants, bars and amusement arcades. For example, you can fly an aircraft or a spaceship using a joystick.',
+        persionContent:
+          'بازی‌های آرکید روی دستگاه‌های سکه‌ای انجام می‌شوند که معمولاً در رستوران‌ها، بارها و مکان‌های تفریحی نصب شده‌اند. برای مثال، می‌توانید با استفاده از جوی‌استیک یک هواپیما یا سفینه فضایی را هدایت کنید.'
+      }
+    ]
+  },
+  {
+    lessonNumber: 30,
+    lessonTitleEnglish: 'New technologies',
+    lessonTitlePersion: 'فناوری های جدید',
+    detail: [
+      {
+        englishContent:
+          'By all accounts, nanotechnology - the science of making devices from single atoms and molecules – is going to have a huge impact on both business and our daily lives.',
+        persionContent:
+          'با همه حساب‌ها، نانوتکنولوژی – علم ساخت دستگاه‌ها از تک‌اتم‌ها و مولکول‌ها – تأثیر زیادی بر مشاغل و زندگی روزمره ما خواهد داشت.'
+      },
+      {
+        englishContent:
+          'Nano devices are measured in nanometers (one billionth of a meter) and are expected to be used in the following areas.',
+        persionContent:
+          'دستگاه‌های نانو برحسب نانومتر (یک میلیاردم متر) اندازه‌گیری می‌شوند و انتظار می‌رود در حوزه‌های زیر مورد استفاده قرار گیرند.'
+      },
+      {
+        englishContent:
+          'Nano-computers: Chip makers will make tiny microprocessors with Nano-transistors, ranging from 60 to 5 nanometers in size.',
+        persionContent:
+          'نانوکامپیوترها: سازندگان تراشه، ریزپردازنده‌های بسیار کوچکی با نانوترانزیستورهایی به اندازه ۵ تا ۶۰ نانومتر خواهند ساخت.'
+      },
+      {
+        englishContent:
+          "Nano-medicine: By 2020, scientists believe that Nano-sized robots, or Nanobots, will be injected into the body's bloodstream to treat diseases at the cellular level.",
+        persionContent:
+          'نانوپزشکی: دانشمندان بر این باورند که تا سال ۲۰۲۰، ربات‌های در اندازه نانو یا نانوبات‌ها وجود خواهند داشت که برای درمان بیماری‌ها در سطح سلولی به جریان خون تزریق می‌شوند.'
+      },
+      {
+        englishContent:
+          'Nanomaterials: New materials will be made from carbon atoms in the form of nanotubes, which are more flexible, resistant and durable than steel or aluminum.',
+        persionContent:
+          'نانو مواد: مواد جدیدی از اتم‌های کربن به شکل نانولوله‌ها ساخته می‌شوند که در مقایسه با فولاد یا آلومینیوم انعطاف‌پذیرتر، مقاوم‌تر و بادوام‌تر هستند.'
+      },
+      {
+        englishContent:
+          'They will be incorporated into all kinds of products, for example stain-resistant coatings for clothes and scratch-resistant paints for cars.',
+        persionContent:
+          'آن‌ها در انواع محصولات گنجانده خواهند شد، مانند پوشش‌های مقاوم در برابر لکه برای لباس‌ها و رنگ‌های ضد خش برای اتومبیل‌ها.'
+      },
+      {
+        englishContent:
+          'Artificial Intelligence (AI) is the science of making intelligent machines and programs.',
+        persionContent:
+          'هوش مصنوعی (AI) علم ساخت ماشین‌ها و برنامه‌های هوشمند است.'
+      },
+      {
+        englishContent:
+          'The term originated in the 1940s, when Alan Turing said: A machine has artificial intelligence when there is no discernible difference between the conversation generated by the machine and that of an intelligent person.',
+        persionContent:
+          'این اصطلاح در دهه ۱۹۴۰ مطرح شد، زمانی که آلن تورینگ گفت: یک ماشین زمانی دارای هوش مصنوعی است که هیچ تفاوت قابل‌تشخیصی بین مکالمه ایجاد شده توسط ماشین و یک فرد باهوش وجود نداشته باشد.'
+      },
+      {
+        englishContent:
+          "A typical AI application is robotics. One example is ASIMO, Honda's intelligent humanoid robot.",
+        persionContent:
+          'یکی از کاربردهای معمول هوش مصنوعی، رباتیک است. یک نمونه آن ربات انسان‌نمای هوشمند هوندا به نام آسیمو است.'
+      },
+      {
+        englishContent:
+          'Soon, engineers will have built different types of android, with the form and capabilities of humans.',
+        persionContent:
+          'به زودی، مهندسان انواع مختلفی از ربات‌های انسان‌نما را با شکل و قابلیت‌های انسانی خواهند ساخت.'
+      },
+      {
+        englishContent:
+          "Another AI application is expert systems - programs containing everything that an 'expert' knows about a subject.",
+        persionContent:
+          'کاربرد دیگر هوش مصنوعی، سیستم‌های خبره هستند – برنامه‌هایی که شامل همه دانش یک متخصص درباره یک موضوع هستند.'
+      },
+      {
+        englishContent:
+          'In a few years, doctors will be using expert systems to diagnose illnesses.',
+        persionContent:
+          'در چند سال آینده، پزشکان از سیستم‌های خبره برای تشخیص بیماری‌ها استفاده خواهند کرد.'
+      },
+      {
+        englishContent:
+          "Imagine you are about to take a holiday in Europe. You walk out to the garage and talk to your car. Recognizing your voice, the car's doors unlock.",
+        persionContent:
+          'تصور کنید که قصد گذراندن تعطیلاتی در اروپا را دارید. به گاراژ می‌روید و با اتومبیلتان صحبت می‌کنید. صدای شما را تشخیص می‌دهد و قفل درهای اتومبیل باز می‌شود.'
+      },
+      {
+        englishContent:
+          'On the way to the airport, you stop at an ATM. A camera mounted on the bank machine looks you in the eye, recognizes the pattern of your iris and allows you to withdraw cash from your account.',
+        persionContent:
+          'در مسیر فرودگاه، نزدیک یک خودپرداز متوقف می‌شوید. دوربین نصب‌شده روی دستگاه بانکی به چشمان شما نگاه می‌کند، الگوی عنبیه شما را تشخیص می‌دهد و به شما اجازه برداشت پول از حسابتان را می‌دهد.'
+      },
+      {
+        englishContent:
+          'When you enter the airport, a hidden camera compares the digitized image of your face to that of suspected criminals.',
+        persionContent:
+          'وقتی وارد فرودگاه می‌شوید، یک دوربین پنهان تصویر دیجیتالی چهره‌تان را با مظنونین جنایتکار مقایسه می‌کند.'
+      },
+      {
+        englishContent:
+          'At the immigration checkpoint, you swipe a card and place your hand on a small metal surface. The geometry of your hand matches the code on the card, and the gate opens.',
+        persionContent:
+          'در بخش بازرسی مهاجرت، کارتی را می‌کشید و دستتان را روی سطح فلزی کوچکی قرار می‌دهید. ویژگی‌های هندسی دست شما با کد روی کارت مطابقت می‌کند و دروازه باز می‌شود.'
+      },
+      {
+        englishContent:
+          "You're on your way. Does it sound futuristic? Well, the future is here.",
+        persionContent:
+          'شما در مسیر سفر هستید. آیا این آینده‌نگرانه به نظر می‌رسد؟ خوب، آینده همین‌جاست.'
+      },
+      {
+        englishContent:
+          'Biometrics uses computer technology to identify people based on physical characteristics such as fingerprints, facial features, voice, iris and retina patterns.',
+        persionContent:
+          'بیومتریک از فناوری کامپیوتری برای شناسایی افراد بر اساس ویژگی‌های فیزیکی مانند اثر انگشت، ویژگی‌های چهره، صدا، الگوهای عنبیه و شبکیه استفاده می‌کند.'
+      },
+      {
+        englishContent:
+          'Ubiquitous computing, also known as pervasive computing, is a new approach in which computer functions are integrated into everyday life, often in an invisible way.',
+        persionContent:
+          'محاسبات همه‌جانبه، که با نام محاسبات فراگیر نیز شناخته می‌شود، رویکردی جدید است که در آن قابلیت‌های کامپیوتر به‌طور نامرئی در زندگی روزمره ادغام می‌شوند.'
+      },
+      {
+        englishContent:
+          'Ubiquitous devices can be anything from smartphones to tiny sensors in homes, offices and cars, connected to networks, which allow information to be accessed anytime and anywhere – in other words, ubiquitously.',
+        persionContent:
+          'دستگاه‌های همه‌جانبه می‌توانند هر چیزی باشند از گوشی‌های هوشمند تا حسگرهای کوچک در خانه‌ها، دفاتر و خودروها، که به شبکه‌ها متصل شده و امکان دسترسی به اطلاعات در هر زمان و مکان را فراهم می‌کنند – به عبارتی، به‌طور همه‌جانبه.'
+      },
+      {
+        englishContent:
+          'In the future people will interact naturally with hundreds of these smart devices (objects containing a microchip and memory) every day, each invisibly embedded in our environment and communicating with each other without cables.',
+        persionContent:
+          'در آینده، مردم به‌طور طبیعی با صدها دستگاه هوشمند (اشیائی شامل ریزتراشه و حافظه) هر روز تعامل خواهند داشت؛ دستگاه‌هایی که به‌طور نامرئی در محیط ما تعبیه شده‌اند و بدون کابل با یکدیگر ارتباط برقرار می‌کنند.'
+      },
+      {
+        englishContent:
+          'In the ideal smart home, appliances and electronic devices work in sync to keep the house secure.',
+        persionContent:
+          'در خانه هوشمند ایده‌آل، لوازم خانگی و دستگاه‌های الکترونیکی برای حفظ امنیت خانه با هم هماهنگ عمل می‌کنند.'
+      },
+      {
+        englishContent:
+          'For example, when a regular alarm system senses that someone is breaking into the house, it usually alerts the alarm company and then the police.',
+        persionContent:
+          'به‌عنوان مثال، وقتی یک سیستم هشدار معمولی تشخیص دهد که شخصی در حال ورود به خانه است، معمولاً شرکت دزدگیر و سپس پلیس را مطلع می‌کند.'
+      },
+      {
+        englishContent:
+          "A smart home system would go further, turning on the lights in the home and then sending a text message to the owner's phone.",
+        persionContent:
+          'یک سیستم خانه هوشمند پا را فراتر می‌گذارد، چراغ‌ها را روشن می‌کند و سپس یک پیام متنی به تلفن همراه صاحب‌خانه ارسال می‌کند.'
+      },
+      {
+        englishContent:
+          'Motorola Homesight even sends images captured by wireless cameras to phones and PCs.',
+        persionContent:
+          '«چشم خانه» موتورولا حتی تصاویر ثبت‌شده توسط دوربین‌های بی‌سیم را به تلفن‌ها و رایانه‌های شخصی ارسال می‌کند.'
+      },
+      {
+        englishContent:
+          'Smart homes can remember your living patterns, so if you like to listen to some classical music when you come home from work, your house can do that for you automatically.',
+        persionContent:
+          'خانه‌های هوشمند می‌توانند الگوهای زندگی شما را به خاطر بسپارند، بنابراین اگر هنگام بازگشت از محل کار دوست دارید موسیقی کلاسیک گوش کنید، خانه به‌طور خودکار این کار را برایتان انجام می‌دهد.'
+      },
+      {
+        englishContent:
+          'They will also know when the house is empty and make sure all appliances are turned off.',
+        persionContent:
+          'همچنین می‌دانند که چه زمانی خانه خالی است و اطمینان حاصل می‌کنند که تمام وسایل برقی خاموش هستند.'
+      },
+      {
+        englishContent:
+          'All home devices will be interconnected over a home area network where phones, cable services, home cinemas, touch screens, smart mirrors and even the refrigerator will cooperate to make our lives more comfortable.',
+        persionContent:
+          'تمام دستگاه‌های خانه از طریق یک شبکه خانگی به یکدیگر متصل خواهند شد، جایی که تلفن‌ها، خدمات کابلی، سینمای خانگی، صفحه‌نمایش‌های لمسی، آینه‌های هوشمند و حتی یخچال برای راحت‌تر کردن زندگی ما با هم همکاری خواهند کرد.'
+      }
+    ]
   }
 ]
