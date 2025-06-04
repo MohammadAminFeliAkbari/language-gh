@@ -1090,151 +1090,112 @@ export const data = [
     lessonTitlePersion: 'دیسک ها و درایوهای نوری',
     detail: [
       {
-        englishContent:
-          'Optical discs can store data at much higher densities than magnetic disks.',
-        persionContent:
-          'داده توانند یم ینور های یسکد ها یسیمغناط های یسکدباالتر از اریبس یچگالرا با ذخیره کنند.'
+        "englishContent": "Optical discs can store data at much higher densities than magnetic disks.",
+        "persionContent": "دیسک‌های نوری می‌توانند داده‌ها را با چگالی بسیار بالاتری نسبت به دیسک‌های مغناطیسی ذخیره کنند."
       },
       {
-        englishContent:
-          'They are therefore ideal for multimedia applications where images, animation and sound occupy a lot of disc space.',
-        persionContent:
-          'برنامه یآنها برا نیبنابرا ها ر،یکه در آن تصاو یا چندرسانه ی کارتون )نقاشی متحرک( و صدا، فضای زیادی از دیسک را اشغال میکنند ایدهآل هستند.'
+        "englishContent": "They are therefore ideal for multimedia applications where images, animation and sound occupy a lot of disc space.",
+        "persionContent": "بنابراین آنها برای برنامه‌های چندرسانه‌ای که در آن تصاویر، انیمیشن و صدا فضای زیادی از دیسک را اشغال می‌کنند، ایده‌آل هستند."
       },
       {
-        englishContent:
-          'Furthermore, optical discs are not affected by magnetic fields, meaning that they are secure and stable, and can be transported through airport metal detectors without damaging the data.',
-        persionContent:
-          'یعالوه بر ا ن، قرار یسیمغناط های یدانم ریتحت تأث ینور های یسکد نم گیر یند یاکه یمعن نیبه ا ، من و پایدار هستند و میتوانند از طریق فلزیابهای فرودگاه بدون آسیب رساندن به دادهها حمل شوند.'
+        "englishContent": "Furthermore, optical discs are not affected by magnetic fields, meaning that they are secure and stable, and can be transported through airport metal detectors without damaging the data.",
+        "persionContent": "علاوه بر این، دیسک‌های نوری تحت تأثیر میدان‌های مغناطیسی قرار نمی‌گیرند، یعنی آنها امن و پایدار هستند و می‌توانند از طریق فلزیاب‌های فرودگاه بدون آسیب رساندن به داده‌ها حمل شوند."
       },
       {
-        englishContent: 'However, optical drives are slower than hard drives.',
-        persionContent: 'بااینحال یسکهارددکندتر از ینور یوهای، درا ها هستند.'
+        "englishContent": "However, optical drives are slower than hard drives.",
+        "persionContent": "با این حال، درایوهای نوری کندتر از هارد درایوها هستند."
       },
       {
-        englishContent: 'At first sight, a DVD is similar to a CD.',
-        persionContent: 'ید یو ید ،در نگاه اول شب است.'
+        "englishContent": "At first sight, a DVD is similar to a CD.",
+        "persionContent": "در نگاه اول، یک دی‌وی‌دی مشابه یک سی‌دی به نظر می‌رسد."
       },
       {
-        englishContent: 'Both discs are 120 mm in diameter and 1.2 mm thick.',
-        persionContent: 'یهر دو د سک 120 میلیمتر قطر و 1.2 میلیمتر ضخامت دارند.'
+        "englishContent": "Both discs are 120 mm in diameter and 1.2 mm thick.",
+        "persionContent": "هر دو دیسک 120 میلی‌متر قطر و 1.2 میلی‌متر ضخامت دارند."
       },
       {
-        englishContent: 'They also both use a laser beam to read data.',
-        persionContent:
-          'دادهخواندن یبرا یزریهر دو از پرتو ل نیهمچن ها .کنند یماستفاده'
+        "englishContent": "They also both use a laser beam to read data.",
+        "persionContent": "هر دو همچنین از پرتو لیزر برای خواندن داده‌ها استفاده می‌کنند."
       },
       {
-        englishContent:
-          'However, they are very different in internal structure and data capacity.',
-        persionContent:
-          'بااینحال، آنها از نظر ساختار داخل متفاوت هستند. اریداده بس تیظرفو ی'
+        "englishContent": "However, they are very different in internal structure and data capacity.",
+        "persionContent": "با این حال، آنها از نظر ساختار داخلی و ظرفیت داده بسیار متفاوت هستند."
       },
       {
-        englishContent:
-          'In a DVD, the tracks are very close together, thus allowing more tracks.',
-        persionContent:
-          'ید کیدر ویدی کینزد اریها بسشیار ، به هم هستند، بنابرا شیار نی ها وجود دارد. یشتریب ی'
+        "englishContent": "In a DVD, the tracks are very close together, thus allowing more tracks.",
+        "persionContent": "در یک دی‌وی‌دی، شیارها به هم نزدیک هستند، بنابراین شیارهای بیشتری وجود دارد."
       },
       {
-        englishContent:
-          'The pits in which data is stored are also smaller, so there are more pits per track.',
-        persionContent:
-          'حفرهها یها در آنها ذخ که داده یی ره کوچک زین شود یم تر هستند، بنابرا حفره نی ها شیاردر هر یشتریب ی وجود دارد.'
+        "englishContent": "The pits in which data is stored are also smaller, so there are more pits per track.",
+        "persionContent": "حفره‌هایی که داده‌ها در آنها ذخیره می‌شوند نیز کوچکتر هستند، بنابراین حفره‌های بیشتری در هر شیار وجود دارد."
       },
       {
-        englishContent:
-          'As a result, a CD can hold 650-700MB, whereas a basic DVD can hold 4.7GB.',
-        persionContent:
-          'تواند یم ید یس کی ،یجهدرنت 700-650 مگابایت را در خود جای دهد، درحالیکه یک دیویدی معمولی میتواند 4.7 گیگابایت را در خود جای دهد.'
+        "englishContent": "As a result, a CD can hold 650-700MB, whereas a basic DVD can hold 4.7GB.",
+        "persionContent": "نتیجه اینکه، یک سی‌دی می‌تواند 650-700 مگابایت را در خود جای دهد، در حالی که یک دی‌وی‌دی معمولی می‌تواند 4.7 گیگابایت را در خود جای دهد."
       },
       {
-        englishContent:
-          'In addition, a DVD can be double-sided and dual layer, with a capacity of 17GB.',
-        persionContent:
-          'کی ن،یعالوه بر ا دیویدی میتواند دوطرفه و دوالیه با ظرفیت 17 گیگابایت باشد.'
+        "englishContent": "In addition, a DVD can be double-sided and dual layer, with a capacity of 17GB.",
+        "persionContent": "علاوه بر این، یک دی‌وی‌دی می‌تواند دوطرفه و دوالایه باشد و ظرفیت آن 17 گیگابایت است."
       },
       {
-        englishContent: 'CDs come in three different formats:',
-        persionContent: 'یس دیها در سه فرمت مختلف عرضه :شوند یم'
+        "englishContent": "CDs come in three different formats:",
+        "persionContent": "سی‌دی‌ها در سه فرمت مختلف عرضه می‌شوند:"
       },
       {
-        englishContent:
-          'CD-ROMs (read-only memory) are read-only units, meaning you cannot change the data stored on them (for example, a dictionary or a game).',
-        persionContent:
-          'ROM-CD هاحافظه فقط خواندنی واحدهای فقط خواندنی هستند، به این معنی که نمیتوانید دادههای ذخیره شده روی آنها را تغییر دهید مثالً یک فرهنگ لغت یا یک بازی.'
+        "englishContent": "CD-ROMs (read-only memory) are read-only units, meaning you cannot change the data stored on them (for example, a dictionary or a game).",
+        "persionContent": "سی‌دی‌رام‌ها (حافظه فقط خواندنی) واحدهای فقط خواندنی هستند، یعنی شما نمی‌توانید داده‌های ذخیره شده روی آنها را تغییر دهید (برای مثال، یک دیکشنری یا یک بازی)."
       },
       {
-        englishContent:
-          'CD-R (recordable) discs are write-once devices which let you duplicate music CDs and other data CDs.',
-        persionContent:
-          '■ R-CD( قابل ضبط( این دیسکها وسایل با قابلیت یک بار نوشتن هستند و به شما امکان میدهند سیدیهای موسیقی و سایر سیدیهای داده را تکثیر کنید.'
+        "englishContent": "CD-R (recordable) discs are write-once devices which let you duplicate music CDs and other data CDs.",
+        "persionContent": "سی‌دی‌آر (قابل ضبط) دیسک‌هایی هستند که فقط یک بار می‌توان بر روی آنها نوشت و به شما این امکان را می‌دهند که سی‌دی‌های موسیقی و سایر سی‌دی‌های داده را تکثیر کنید."
       },
       {
-        englishContent:
-          'CD-RW (rewritable) discs enable you to write onto them many times, just like a hard disk.',
-        persionContent:
-          '■ RW-CD( قابل بازنویسی( این دیسک شما را قادر میسازند تا چندین بار روی آنها بنویسید، درست مانند دیسک سخت.'
+        "englishContent": "CD-RW (rewritable) discs enable you to write onto them many times, just like a hard disk.",
+        "persionContent": "سی‌دی‌ری‌دابلیو (قابل بازنویسی) دیسک‌هایی هستند که به شما امکان می‌دهند که چندین بار بر روی آنها بنویسید، درست مانند یک هارد دیسک."
       },
       {
-        englishContent: 'DVDs also come in several formats:',
-        persionContent: '‌زین‌ها‌ید‌یو‌ید در‌ ‌یمعرضه‌‌یمختلف‌یها‌فرمت شوند:'
+        "englishContent": "DVDs also come in several formats:",
+        "persionContent": "دی‌وی‌دی‌ها همچنین در چندین فرمت عرضه می‌شوند:"
       },
       {
-        englishContent: 'DVD-ROMs are used in DVD computer drives.',
-        persionContent:
-          '■ ROM-DVD ها در درایوهای دیویدی کامپیوتر استفاده میشوند.'
+        "englishContent": "DVD-ROMs are used in DVD computer drives.",
+        "persionContent": "دی‌وی‌دی‌رام‌ها در درایوهای دی‌وی‌دی کامپیوتر استفاده می‌شوند."
       },
       {
-        englishContent:
-          'They allow for data archiving as well as interactive content (for example, an encyclopedia or a movie).',
-        persionContent:
-          'آنها امکان داده بایگانی ها و یف کی ای المعارف دائره کی)مثالً یتعامل یمحتوا نیهمچن لم( را فراهم میکنند.'
+        "englishContent": "They allow for data archiving as well as interactive content (for example, an encyclopedia or a movie).",
+        "persionContent": "آنها برای بایگانی داده‌ها و همچنین محتواهای تعاملی (برای مثال، یک دایره‌المعارف یا یک فیلم) استفاده می‌شوند."
       },
       {
-        englishContent: 'DVD-R or DVD+R can only be recorded on once.',
-        persionContent: '■ R-DVD یا R+DVD فقط یک بار قابل ضبط است.'
+        "englishContent": "DVD-R or DVD+R can only be recorded on once.",
+        "persionContent": "دی‌وی‌دی‌آر یا دی‌وی‌دی‌پلاس‌آر تنها یک بار قابل ضبط هستند."
       },
       {
-        englishContent:
-          'DVD-RW or DVD+RW discs can be erased and reused many times.',
-        persionContent:
-          '■ های یسکد RW-DVD یا RW+DVD را میتوان چندین بار پاک کرد و استفاده کرد.'
+        "englishContent": "DVD-RW or DVD+RW discs can be erased and reused many times.",
+        "persionContent": "دی‌وی‌دی‌آر‌دابلیو یا دی‌وی‌دی‌پلاس‌آر‌دابلیو دیسک‌هایی هستند که می‌توان آنها را پاک کرده و چندین بار استفاده کرد."
       },
       {
-        englishContent:
-          'They are used to back up data files and to record audio and video.',
-        persionContent:
-          'از یریگ بانیپشت یآنها برا فا های یل داده و ضبط صدا و .شوند یماستفاده ویدیو'
+        "englishContent": "They are used to back up data files and to record audio and video.",
+        "persionContent": "از آنها برای پشتیبان‌گیری از فایل‌های داده و ضبط صدا و ویدیو استفاده می‌شود."
       },
       {
-        englishContent:
-          'The DVD drive used in computers is also called a DVD burner because it records information by burning via a laser to a blank DVD disc.',
-        persionContent:
-          'ید ویدرا ویدی مورد استفاده در کامپ ید وترهای ویدی را ینام زین /سوزانتری ده یز شود یم را اطالعات را با رایت/سوزاندن از طریق لیزر بر روی یک دیسک دیویدی خالی ضبط میکند.'
+        "englishContent": "The DVD drive used in computers is also called a DVD burner because it records information by burning via a laser to a blank DVD disc.",
+        "persionContent": "درایو دی‌وی‌دی مورد استفاده در کامپیوترها همچنین به نام دی‌وی‌دی‌برنر شناخته می‌شود زیرا اطلاعات را با استفاده از لیزر بر روی یک دیسک دی‌وی‌دی خالی ضبط می‌کند."
       },
       {
-        englishContent:
-          'However, a DVD recorder typically refers to a standalone unit which resembles a video cassette recorder.',
-        persionContent:
-          'یدضبط کننده کیحال، نیبا ا وی ضبط کی هیشبکه شود یماطالق مستقلواحد کیمعموالً به دی کننده کاست ویدیویی است.'
+        "englishContent": "However, a DVD recorder typically refers to a standalone unit which resembles a video cassette recorder.",
+        "persionContent": "با این حال، یک ضبط‌کننده دی‌وی‌دی معمولاً به واحدی مستقل اشاره دارد که شبیه یک ضبط‌کننده ویدیویی کاست است."
       },
       {
-        englishContent: 'New DVD recorders can play all CD and DVD formats.',
-        persionContent:
-          'دستگاهها یدضبط ی وی دی جد فرمتتمام میتوانند یم دی ها سی ی دی یدو ویدیها را پخش کنند.'
+        "englishContent": "New DVD recorders can play all CD and DVD formats.",
+        "persionContent": "ضبط‌کننده‌های دی‌وی‌دی جدید می‌توانند تمامی فرمت‌های سی‌دی و دی‌وی‌دی را پخش کنند."
       },
       {
-        englishContent:
-          'There are also portable DVD players - handheld devices which let you watch movies or TV, play games and listen to music, wherever you are.',
-        persionContent:
-          'هدستگا ها یدکننده پخش ی وی نوجود دار زین حمل قابل دی د - دستگاه ها یدست ی که به شما امکان میدهند فیلم یا تلویزیون تماشا کنید، بازی کنید و به موسیقی گوش دهید، در هر کجا که باشید.'
+        "englishContent": "There are also portable DVD players - handheld devices which let you watch movies or TV, play games and listen to music, wherever you are.",
+        "persionContent": "همچنین دستگاه‌های پخش دی‌وی‌دی قابل حمل وجود دارند - دستگاه‌های دستی که به شما این امکان را می‌دهند که فیلم یا تلویزیون تماشا کنید، بازی کنید و به موسیقی گوش دهید، در هر کجا که باشید."
       },
       {
-        englishContent:
-          'They come with a built-in DVD drive and widescreen (rectangular 16:9 format) LCD display.',
-        persionContent:
-          'ید ویدرا کی یآنها دارا ویدی تعب شده یه و نما صفحه یش LCD عریض )قالب مستطیلی شکل 16:9( هستند.'
+        "englishContent": "They come with a built-in DVD drive and widescreen (rectangular 16:9 format) LCD display.",
+        "persionContent": "این دستگاه‌ها با درایو دی‌وی‌دی داخلی و نمایشگر ال‌سی‌دی عریض (فرمت مستطیلی 16:9) عرضه می‌شوند."
       },
       {
         englishContent:
@@ -1243,40 +1204,28 @@ export const data = [
           'آنها معموالً کنند یم یبانیپشترا یچند فرمت بازنواخت پخش - فرمتاز یاریبس توانند یم یعنی ها ی فایل از جمله video-DVD ، DivX، دیسکهای CD صوتی ، موسیقی 3MP و تصاویر JPEG را پخش کنند.'
       },
       {
-        englishContent:
-          'These two competing formats are expected to replace current DVD as the standard for watching movies at home.',
-        persionContent:
-          'دو فرمت نیا رود یمانتظار رق بی ، جا ید نیگزی وی جاری )معاصر( دی استاندارد تماشا عنوان به یف ی لم در خانه شوند.'
+        "englishContent": "These two competing formats are expected to replace current DVD as the standard for watching movies at home.",
+        "persionContent": "انتظار می‌رود این دو فرمت رقابتی دی‌وی‌دی فعلی را به عنوان استاندارد تماشای فیلم در خانه جایگزین کنند."
       },
       {
-        englishContent:
-          'On one side are Toshiba, Microsoft and the DVD Forum, who support the High Definition-DVD (HDDVD).',
-        persionContent:
-          'با،یطرف توش کیدر ما کروسافتی و ید انجمن وی دی قرار دارند که از ید وی باال یفیتباک دی )HDDVD )پشتیبانی میکنند.'
+        "englishContent": "On one side are Toshiba, Microsoft and the DVD Forum, who support the High Definition-DVD (HDDVD).",
+        "persionContent": "در یک طرف توشیبا، مایکروسافت و انجمن دی‌وی‌دی قرار دارند که از دی‌وی‌دی با کیفیت بالا (HDDVD) پشتیبانی می‌کنند."
       },
       {
-        englishContent:
-          'Sony, Panasonic, Samsung, JVC and many movie studios are behind the Blu-ray format.',
-        persionContent:
-          ')در طرف دیگر( سون سامسونگ، ک،یپاناسون ،ی JVC و بسیاری از استودیوهای فیلم، پشتیبانِ فرمت ray-Blu( اشعه آبی، بنفش لیزری( هستند.'
+        "englishContent": "Sony, Panasonic, Samsung, JVC and many movie studios are behind the Blu-ray format.",
+        "persionContent": "در طرف دیگر سونی، پاناسونیک، سامسونگ، JVC و بسیاری از استودیوهای فیلم از فرمت بلو-ری پشتیبانی می‌کنند."
       },
       {
-        englishContent:
-          'Blu-ray disc has a capacity of 25GB (single layer), 50GB (dual layer) and 100GB (four layer).',
-        persionContent:
-          'ید سک تیظرف یدارا یبلور 25 گیگابایت )تک الیه(، 50 گیگابایت )دو الیه( و 100 گیگابایت )چهار الیه( است.'
+        "englishContent": "Blu-ray disc has a capacity of 25GB (single layer), 50GB (dual layer) and 100GB (four layer).",
+        "persionContent": "دیسک بلو-ری ظرفیت 25 گیگابایت (تک لایه)، 50 گیگابایت (دو لایه) و 100 گیگابایت (چهار لایه) دارد."
       },
       {
-        englishContent:
-          'Unlike DVDs, which use a red laser to read and write data, Blu-ray uses a blue-violet laser, hence its name.',
-        persionContent:
-          'ید برخلاف ویدیها یقرمز برا زریکه از ل خواندن و نوشتن دادهها کنند یماستفاده ، ray-Blu از لیزر آبی بنفش استفاده میکند، به همین دلیل نام آن ray-Blu است.'
+        "englishContent": "Unlike DVDs, which use a red laser to read and write data, Blu-ray uses a blue-violet laser, hence its name.",
+        "persionContent": "برخلاف دی‌وی‌دی‌ها که از لیزر قرمز برای خواندن و نوشتن داده‌ها استفاده می‌کنند، بلو-ری از لیزر آبی-بنفش استفاده می‌کند، به همین دلیل نام آن بلو-ری است."
       },
       {
-        englishContent:
-          'Blu-ray discs can record and play back high-definition television and digital audio, as well as computer data.',
-        persionContent:
-          'های یسکد ray-Blu میتوانند تلویزیون باکیفیت باال و صدای دیجیتال و همچنین دادههای رایانه را ضبط و پخش کنند.'
+        "englishContent": "Blu-ray discs can record and play back high-definition television and digital audio, as well as computer data.",
+        "persionContent": "دیسک‌های بلو-ری می‌توانند تلویزیون با کیفیت بالا، صدای دیجیتال و همچنین داده‌های رایانه‌ای را ضبط و پخش کنند."
       }
     ]
   },

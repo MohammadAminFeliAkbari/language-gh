@@ -29,7 +29,7 @@ function Main({
   };  
 
   return (  
-    <div className="m-3 bg-gray-800 p-4 rounded">  
+    <div className="m-3 bg-gray-100 dark:bg-gray-800 p-4 rounded">  
       <header onClick={click} className="cursor-pointer flex justify-around items-center lg:min-w-[900px] relative md:min-w-[700px] sm:min-w-[400px] gap-10">  
         <div className="left flex items-center gap-3 ml-20">  
           <div className="absolute left-0 flex mr-10">    
@@ -47,7 +47,7 @@ function Main({
           <h1>{lessonTitlePersion}</h1>  
         </div>  
       </header>  
-      <div className="border mx-3 my-1 border-gray-600"></div>  
+      <div className="border mx-3 my-1 border-gray-300 dark:border-gray-600"></div>  
       <div  
         ref={contentRef}  
         className={`overflow-hidden transition-height duration-[1s] ease-in-out ${hidden ? 'max-h-[10000px]' : 'max-h-0'}`}  
